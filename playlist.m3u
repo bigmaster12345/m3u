@@ -91,6 +91,10 @@ http://pfsv.io:80/7125938483/5158/108399
 http://pfsv.io:80/7125938483/5158/108400
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 5 Brasil HD" tvg-logo="" group-title="Canais | Esportes" tvg-shift="-3",TNT Sports 5 Brasil HD
 http://pfsv.io:80/7125938483/5158/108401
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel FHD" tvg-logo="" group-title="Canais | Esportes" tvg-shift="-3",Golf Channel FHD
+http://pfsv.io:80/7125938483/5158/124093
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel HD" tvg-logo="" group-title="Canais | Esportes" tvg-shift="-3",Golf Channel HD
+http://pfsv.io:80/7125938483/5158/124094
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Anhanguera Goiania SD" tvg-logo="http://p6.vc/C" group-title="Canais | Globo" tvg-shift="-3",Globo Anhanguera Goiania SD
 http://pfsv.io:80/7125938483/5158/32427
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Asa Branca SD" tvg-logo="http://p6.vc/C" group-title="Canais | Globo" tvg-shift="-3",Globo TV Asa Branca SD
@@ -699,6 +703,30 @@ http://pfsv.io:80/7125938483/5158/122124
 http://pfsv.io:80/7125938483/5158/122446
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band RJ HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band RJ HD
 http://pfsv.io:80/7125938483/5158/122447
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Teresina HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band Teresina HD
+http://pfsv.io:80/7125938483/5158/123573
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band TV Goiania HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band TV Goiania HD
+http://pfsv.io:80/7125938483/5158/123574
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band TV Goiania FHD[H265]" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band TV Goiania FHD[H265]
+http://pfsv.io:80/7125938483/5158/123575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band RS HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band RS HD
+http://pfsv.io:80/7125938483/5158/123576
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Sergipe HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band Sergipe HD
+http://pfsv.io:80/7125938483/5158/123577
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Tv PR Taroba HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band Tv PR Taroba HD
+http://pfsv.io:80/7125938483/5158/123578
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band TV Taroba Curitiba HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band TV Taroba Curitiba HD
+http://pfsv.io:80/7125938483/5158/123579
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band TV Campinas FHD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band TV Campinas FHD
+http://pfsv.io:80/7125938483/5158/123580
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band TV Taroba Curitiba FHD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band TV Taroba Curitiba FHD
+http://pfsv.io:80/7125938483/5158/123581
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band TV Minas HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band TV Minas HD
+http://pfsv.io:80/7125938483/5158/123582
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band TV Minas FHD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band TV Minas FHD
+http://pfsv.io:80/7125938483/5158/123583
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band TV Bahia FHD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band TV Bahia FHD
+http://pfsv.io:80/7125938483/5158/123584
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CAM] Atlanta International Airport Cam 1" tvg-logo="" group-title="Cameras ao Vivo" tvg-shift="-3",[CAM] Atlanta International Airport Cam 1
 http://pfsv.io:80/7125938483/5158/33397
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CAM] Atlanta International Airport Cam 2" tvg-logo="" group-title="Cameras ao Vivo" tvg-shift="-3",[CAM] Atlanta International Airport Cam 2
@@ -1473,7 +1501,7 @@ http://pfsv.io:80/7125938483/5158/587
 http://pfsv.io:80/7125938483/5158/596
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV [4K]" tvg-logo="http://p6.vc/7" group-title="Canais | 4K" tvg-shift="-3",SporTV [4K]
 http://pfsv.io:80/7125938483/5158/589
-#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel [4K]" tvg-logo="http://z4.vc/yeh" group-title="Canais | 4K" tvg-shift="-3",Star Channel [4K]
+#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel [4K]" tvg-logo="http://p6.vc/eLn" group-title="Canais | 4K" tvg-shift="-3",Star Channel [4K]
 http://pfsv.io:80/7125938483/5158/5346
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action [4K]" tvg-logo="http://p6.vc/J" group-title="Canais | 4K" tvg-shift="-3",Telecine Action [4K]
 http://pfsv.io:80/7125938483/5158/50871
@@ -1499,6 +1527,8 @@ http://pfsv.io:80/7125938483/5158/110298
 http://pfsv.io:80/7125938483/5158/110296
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copa do Brasil Prime Video 02[Alter]" tvg-logo="http://logos.pfsv.io/primer.png" group-title="Canais | Amazon Prime Video" tvg-shift="-3",Copa do Brasil Prime Video 02[Alter]
 http://pfsv.io:80/7125938483/5158/110299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon Prime 01 [Alter2]" tvg-logo="" group-title="Canais | Amazon Prime Video" tvg-shift="-3",Amazon Prime 01 [Alter2]
+http://pfsv.io:80/7125938483/5158/123566
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIS FHD" tvg-logo="http://p6.vc/e" group-title="Canais | Art & Music" tvg-shift="-3",BIS FHD
 http://pfsv.io:80/7125938483/5158/5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIS  FHD[H265]" tvg-logo="http://p6.vc/e" group-title="Canais | Art & Music" tvg-shift="-3",BIS  FHD[H265]
@@ -1765,6 +1795,8 @@ http://pfsv.io:80/7125938483/5158/65588
 http://pfsv.io:80/7125938483/5158/113956
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Conmebol TV 4 SD [C]" tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol" tvg-shift="-3",Conmebol TV 4 SD [C]
 http://pfsv.io:80/7125938483/5158/65584
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Conmebol TV [EXTRA]" tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol" tvg-shift="-3",Conmebol TV [EXTRA]
+http://pfsv.io:80/7125938483/5158/124515
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários" tvg-shift="-3",Animal Planet FHD
 http://pfsv.io:80/7125938483/5158/164
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários" tvg-shift="-3",Animal Planet FHD [H265]
@@ -2877,7 +2909,7 @@ http://pfsv.io:80/7125938483/5158/33403
 http://pfsv.io:80/7125938483/5158/93624
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star+ 1" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star+ 1
 http://pfsv.io:80/7125938483/5158/92364
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star+ 1 [Alter2]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star+ 1 [Alter2]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star+ 1 [Alter 2]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star+ 1 [Alter 2]
 http://pfsv.io:80/7125938483/5158/92366
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star+ 1 [Alter]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Star+ 1 [Alter]
 http://pfsv.io:80/7125938483/5158/92365
@@ -2903,120 +2935,6 @@ http://pfsv.io:80/7125938483/5158/69077
 http://pfsv.io:80/7125938483/5158/69078
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WATCH ESPN" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",WATCH ESPN
 http://pfsv.io:80/7125938483/5158/33376
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD [LEG]" tvg-logo="http://p6.vc/H" group-title="Canais | Legendados" tvg-shift="-3",AXN FHD [LEG]
-http://pfsv.io:80/7125938483/5158/49101
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN HD [LEG]" tvg-logo="http://p6.vc/H" group-title="Canais | Legendados" tvg-shift="-3",AXN HD [LEG]
-http://pfsv.io:80/7125938483/5158/209
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN SD [LEG]" tvg-logo="http://p6.vc/H" group-title="Canais | Legendados" tvg-shift="-3",AXN SD [LEG]
-http://pfsv.io:80/7125938483/5158/210
-#EXTINF:-1 tvg-id="FX.br" tvg-name="FX HD [LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",FX HD [LEG]
-http://pfsv.io:80/7125938483/5158/231
-#EXTINF:-1 tvg-id="FX.br" tvg-name="FX SD [LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",FX SD [LEG]
-http://pfsv.io:80/7125938483/5158/232
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD [LEG]" tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Legendados" tvg-shift="-3",HBO FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67385
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD [LEG]" tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Legendados" tvg-shift="-3",HBO HD [LEG]
-http://pfsv.io:80/7125938483/5158/213
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi FHD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",HBO Mundi FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67389
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Mundi FHD[LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",HBO Mundi FHD[LEG]
-http://pfsv.io:80/7125938483/5158/109507
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi HD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",HBO Mundi HD [LEG]
-http://pfsv.io:80/7125938483/5158/67390
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus FHD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",HBO Plus FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67386
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO PLUS HD [LEG]" tvg-logo="http://logos.pfsv.io/hboplus.png" group-title="Canais | Legendados" tvg-shift="-3",HBO PLUS HD [LEG]
-http://pfsv.io:80/7125938483/5158/215
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO PLUS SD [LEG]" tvg-logo="http://logos.pfsv.io/hboplus.png" group-title="Canais | Legendados" tvg-shift="-3",HBO PLUS SD [LEG]
-http://pfsv.io:80/7125938483/5158/216
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP FHD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",HBO POP FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67391
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop HD [LEG]" tvg-logo="http://p6.vc/O" group-title="Canais | Legendados" tvg-shift="-3",HBO Pop HD [LEG]
-http://pfsv.io:80/7125938483/5158/233
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop SD [LEG]" tvg-logo="http://p6.vc/O" group-title="Canais | Legendados" tvg-shift="-3",HBO Pop SD [LEG]
-http://pfsv.io:80/7125938483/5158/234
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO SD [LEG]" tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Legendados" tvg-shift="-3",HBO SD [LEG]
-http://pfsv.io:80/7125938483/5158/214
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature FHD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",HBO Signature FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67387
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",HBO Signature HD [LEG]
-http://pfsv.io:80/7125938483/5158/67388
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature SD [LEG]" tvg-logo="http://p6.vc/W" group-title="Canais | Legendados" tvg-shift="-3",HBO Signature SD [LEG]
-http://pfsv.io:80/7125938483/5158/109504
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme FHD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",HBO Xtreme FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67393
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme HD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",HBO Xtreme HD [LEG]
-http://pfsv.io:80/7125938483/5158/67392
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme SD [LEG]" tvg-logo="http://logos.pfsv.io/hboxtreme.png" group-title="Canais | Legendados" tvg-shift="-3",HBO Xtreme SD [LEG]
-http://pfsv.io:80/7125938483/5158/217
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAX SD [LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",MAX SD [LEG]
-http://pfsv.io:80/7125938483/5158/218
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD [LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",Megapix HD [LEG]
-http://pfsv.io:80/7125938483/5158/235
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD [LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",Megapix SD [LEG]
-http://pfsv.io:80/7125938483/5158/236
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony HD [LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",Sony HD [LEG]
-http://pfsv.io:80/7125938483/5158/243
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony SD [LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",Sony SD [LEG]
-http://pfsv.io:80/7125938483/5158/244
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD[LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",Space HD[LEG]
-http://pfsv.io:80/7125938483/5158/237
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD [LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",Space SD [LEG]
-http://pfsv.io:80/7125938483/5158/238
-#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel FHD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",Star Channel FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67394
-#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel HD [LEG]" tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados" tvg-shift="-3",Star Channel HD [LEG]
-http://pfsv.io:80/7125938483/5158/211
-#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel SD [LEG]" tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados" tvg-shift="-3",Star Channel SD [LEG]
-http://pfsv.io:80/7125938483/5158/212
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD [LEG]" tvg-logo="http://p6.vc/J" group-title="Canais | Legendados" tvg-shift="-3",Telecine Action FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67381
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action HD [LEG]" tvg-logo="http://p6.vc/J" group-title="Canais | Legendados" tvg-shift="-3",Telecine Action HD [LEG]
-http://pfsv.io:80/7125938483/5158/219
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action SD [LEG]" tvg-logo="http://p6.vc/J" group-title="Canais | Legendados" tvg-shift="-3",Telecine Action SD [LEG]
-http://pfsv.io:80/7125938483/5158/220
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult FHD [LEG]" tvg-logo="http://p6.vc/P" group-title="Canais | Legendados" tvg-shift="-3",Telecine Cult FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67384
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult HD [LEG]" tvg-logo="http://p6.vc/P" group-title="Canais | Legendados" tvg-shift="-3",Telecine Cult HD [LEG]
-http://pfsv.io:80/7125938483/5158/246
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult SD [LEG]" tvg-logo="http://p6.vc/P" group-title="Canais | Legendados" tvg-shift="-3",Telecine Cult SD [LEG]
-http://pfsv.io:80/7125938483/5158/245
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun FHD [LEG]" tvg-logo="http://p6.vc/K" group-title="Canais | Legendados" tvg-shift="-3",Telecine Fun FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67383
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun HD [LEG]" tvg-logo="http://p6.vc/K" group-title="Canais | Legendados" tvg-shift="-3",Telecine Fun HD [LEG]
-http://pfsv.io:80/7125938483/5158/221
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun SD [LEG]" tvg-logo="http://p6.vc/K" group-title="Canais | Legendados" tvg-shift="-3",Telecine Fun SD [LEG]
-http://pfsv.io:80/7125938483/5158/222
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca FHD [LEG]" tvg-logo="http://p6.vc/L" group-title="Canais | Legendados" tvg-shift="-3",Telecine Pipoca FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67379
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca HD [LEG]" tvg-logo="http://p6.vc/L" group-title="Canais | Legendados" tvg-shift="-3",Telecine Pipoca HD [LEG]
-http://pfsv.io:80/7125938483/5158/223
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca SD [LEG]" tvg-logo="http://p6.vc/L" group-title="Canais | Legendados" tvg-shift="-3",Telecine Pipoca SD [LEG]
-http://pfsv.io:80/7125938483/5158/224
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium FHD [LEG]" tvg-logo="http://p6.vc/M" group-title="Canais | Legendados" tvg-shift="-3",Telecine Premium FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67380
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium HD [LEG]" tvg-logo="http://p6.vc/M" group-title="Canais | Legendados" tvg-shift="-3",Telecine Premium HD [LEG]
-http://pfsv.io:80/7125938483/5158/225
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium SD [LEG]" tvg-logo="http://p6.vc/M" group-title="Canais | Legendados" tvg-shift="-3",Telecine Premium SD [LEG]
-http://pfsv.io:80/7125938483/5158/226
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch FHD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",Telecine Touch FHD [LEG]
-http://pfsv.io:80/7125938483/5158/67382
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch HD [LEG]" tvg-logo="http://p6.vc/N" group-title="Canais | Legendados" tvg-shift="-3",Telecine Touch HD [LEG]
-http://pfsv.io:80/7125938483/5158/227
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch SD [LEG]" tvg-logo="http://p6.vc/N" group-title="Canais | Legendados" tvg-shift="-3",Telecine Touch SD [LEG]
-http://pfsv.io:80/7125938483/5158/228
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT HD [LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",TNT HD [LEG]
-http://pfsv.io:80/7125938483/5158/229
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT SD [LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",TNT SD [LEG]
-http://pfsv.io:80/7125938483/5158/230
-#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series HD [LEG]" tvg-logo="http://p6.vc/bj" group-title="Canais | Legendados" tvg-shift="-3",TNT Series HD [LEG]
-http://pfsv.io:80/7125938483/5158/239
-#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series SD [LEG]" tvg-logo="http://p6.vc/bj" group-title="Canais | Legendados" tvg-shift="-3",TNT Series SD [LEG]
-http://pfsv.io:80/7125938483/5158/240
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel HD[LEG]" tvg-logo="LINK_LOGO" group-title="Canais | Legendados" tvg-shift="-3",Warner Channel HD[LEG]
-http://pfsv.io:80/7125938483/5158/241
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel SD [LEG]" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",Warner Channel SD [LEG]
-http://pfsv.io:80/7125938483/5158/242
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] [Musicas] Top 100 Catolicas 2021" tvg-logo="http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png" group-title="Canais | Musicas [24H]" tvg-shift="-3",[24H] [Musicas] Top 100 Catolicas 2021
 http://pfsv.io:80/7125938483/5158/107099
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] [Musicas] Top 100 Gospel 2021" tvg-logo="http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png" group-title="Canais | Musicas [24H]" tvg-shift="-3",[24H] [Musicas] Top 100 Gospel 2021
@@ -4675,3 +4593,115 @@ http://pfsv.io:80/7125938483/5158/32226
 http://pfsv.io:80/7125938483/5158/32225
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] FM O Dia - 100.5 FM" tvg-logo="http://p6.vc/bK" group-title="Radios" tvg-shift="-3",[RJ] FM O Dia - 100.5 FM
 http://pfsv.io:80/7125938483/5158/32251
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD LEG" tvg-logo="http://p6.vc/H" group-title="Canais | Legendados" tvg-shift="-3",AXN HD LEG
+http://pfsv.io:80/7125938483/5158/122933
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN SD LEG" tvg-logo="http://p6.vc/H" group-title="Canais | Legendados" tvg-shift="-3",AXN SD LEG
+http://pfsv.io:80/7125938483/5158/122934
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN FHD LEG" tvg-logo="http://p6.vc/H" group-title="Canais | Legendados" tvg-shift="-3",AXN FHD LEG
+http://pfsv.io:80/7125938483/5158/122939
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Channel HD LEG" tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados" tvg-shift="-3",Star Channel HD LEG
+http://pfsv.io:80/7125938483/5158/122975
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Channel SD LEG" tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados" tvg-shift="-3",Star Channel SD LEG
+http://pfsv.io:80/7125938483/5158/123122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Channel FHD LEG" tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados" tvg-shift="-3",Star Channel FHD LEG
+http://pfsv.io:80/7125938483/5158/123484
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD LEG" tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Legendados" tvg-shift="-3",HBO HD LEG
+http://pfsv.io:80/7125938483/5158/123486
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO SD LEG" tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Legendados" tvg-shift="-3",HBO SD LEG
+http://pfsv.io:80/7125938483/5158/123487
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FHD LEG" tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Legendados" tvg-shift="-3",HBO FHD LEG
+http://pfsv.io:80/7125938483/5158/123488
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Plus HD LEG" tvg-logo="http://p6.vc/I" group-title="Canais | Legendados" tvg-shift="-3",HBO Plus HD LEG
+http://pfsv.io:80/7125938483/5158/123489
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Plus SD LEG" tvg-logo="http://p6.vc/I" group-title="Canais | Legendados" tvg-shift="-3",HBO Plus SD LEG
+http://pfsv.io:80/7125938483/5158/123490
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Plus FHD  LEG" tvg-logo="http://p6.vc/I" group-title="Canais | Legendados" tvg-shift="-3",HBO Plus FHD  LEG
+http://pfsv.io:80/7125938483/5158/123491
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Xtreme SD LEG" tvg-logo="http://p6.vc/Y" group-title="Canais | Legendados" tvg-shift="-3",HBO Xtreme SD LEG
+http://pfsv.io:80/7125938483/5158/123492
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max SD LEG" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",Max SD LEG
+http://pfsv.io:80/7125938483/5158/123493
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Action HD LEG" tvg-logo="http://p6.vc/J" group-title="Canais | Legendados" tvg-shift="-3",Telecine Action HD LEG
+http://pfsv.io:80/7125938483/5158/123494
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Action SD LEG" tvg-logo="http://p6.vc/J" group-title="Canais | Legendados" tvg-shift="-3",Telecine Action SD LEG
+http://pfsv.io:80/7125938483/5158/123495
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Fun HD LEG" tvg-logo="http://p6.vc/K" group-title="Canais | Legendados" tvg-shift="-3",Telecine Fun HD LEG
+http://pfsv.io:80/7125938483/5158/123496
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Fun SD LEG" tvg-logo="http://p6.vc/K" group-title="Canais | Legendados" tvg-shift="-3",Telecine Fun SD LEG
+http://pfsv.io:80/7125938483/5158/123497
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Pipoca HD LEG" tvg-logo="http://p6.vc/L" group-title="Canais | Legendados" tvg-shift="-3",Telecine Pipoca HD LEG
+http://pfsv.io:80/7125938483/5158/123498
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Pipoca SD LEG" tvg-logo="http://p6.vc/L" group-title="Canais | Legendados" tvg-shift="-3",Telecine Pipoca SD LEG
+http://pfsv.io:80/7125938483/5158/123499
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Premium HD LEG" tvg-logo="http://p6.vc/M" group-title="Canais | Legendados" tvg-shift="-3",Telecine Premium HD LEG
+http://pfsv.io:80/7125938483/5158/123500
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Premium SD LEG" tvg-logo="http://p6.vc/M" group-title="Canais | Legendados" tvg-shift="-3",Telecine Premium SD LEG
+http://pfsv.io:80/7125938483/5158/123501
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Touch HD LEG" tvg-logo="http://p6.vc/N" group-title="Canais | Legendados" tvg-shift="-3",Telecine Touch HD LEG
+http://pfsv.io:80/7125938483/5158/123502
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Touch SD LEG" tvg-logo="http://p6.vc/N" group-title="Canais | Legendados" tvg-shift="-3",Telecine Touch SD LEG
+http://pfsv.io:80/7125938483/5158/123503
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT HD LEG" tvg-logo="http://p6.vc/bi" group-title="Canais | Legendados" tvg-shift="-3",TNT HD LEG
+http://pfsv.io:80/7125938483/5158/123504
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SD LEG" tvg-logo="http://p6.vc/bi" group-title="Canais | Legendados" tvg-shift="-3",TNT SD LEG
+http://pfsv.io:80/7125938483/5158/123505
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX HD LEG" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",FX HD LEG
+http://pfsv.io:80/7125938483/5158/123506
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX SD LEG" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",FX SD LEG
+http://pfsv.io:80/7125938483/5158/123507
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO POP HD LEG" tvg-logo="http://p6.vc/O" group-title="Canais | Legendados" tvg-shift="-3",HBO POP HD LEG
+http://pfsv.io:80/7125938483/5158/123508
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO POP SD LEG" tvg-logo="http://p6.vc/O" group-title="Canais | Legendados" tvg-shift="-3",HBO POP SD LEG
+http://pfsv.io:80/7125938483/5158/123509
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MegaPix HD LEG" tvg-logo="http://p6.vc/bd" group-title="Canais | Legendados" tvg-shift="-3",MegaPix HD LEG
+http://pfsv.io:80/7125938483/5158/123510
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MegaPix SD LEG" tvg-logo="http://p6.vc/bd" group-title="Canais | Legendados" tvg-shift="-3",MegaPix SD LEG
+http://pfsv.io:80/7125938483/5158/123511
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Space HD LEG" tvg-logo="http://p6.vc/bg" group-title="Canais | Legendados" tvg-shift="-3",Space HD LEG
+http://pfsv.io:80/7125938483/5158/123512
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Space SD LEG" tvg-logo="http://p6.vc/bg" group-title="Canais | Legendados" tvg-shift="-3",Space SD LEG
+http://pfsv.io:80/7125938483/5158/123513
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Series HD LEG" tvg-logo="http://p6.vc/bj" group-title="Canais | Legendados" tvg-shift="-3",TNT Series HD LEG
+http://pfsv.io:80/7125938483/5158/123514
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Series SD LEG" tvg-logo="http://p6.vc/bj" group-title="Canais | Legendados" tvg-shift="-3",TNT Series SD LEG
+http://pfsv.io:80/7125938483/5158/123515
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner HD LEG" tvg-logo="http://p6.vc/eLq" group-title="Canais | Legendados" tvg-shift="-3",Warner HD LEG
+http://pfsv.io:80/7125938483/5158/123516
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner SD LEG" tvg-logo="http://p6.vc/eLq" group-title="Canais | Legendados" tvg-shift="-3",Warner SD LEG
+http://pfsv.io:80/7125938483/5158/123517
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Channel HD LEG" tvg-logo="http://p6.vc/eLa" group-title="Canais | Legendados" tvg-shift="-3",Sony Channel HD LEG
+http://pfsv.io:80/7125938483/5158/123518
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Channel SD LEG" tvg-logo="http://p6.vc/eLa" group-title="Canais | Legendados" tvg-shift="-3",Sony Channel SD LEG
+http://pfsv.io:80/7125938483/5158/123519
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Cult SD LEG" tvg-logo="http://p6.vc/P" group-title="Canais | Legendados" tvg-shift="-3",Telecine Cult SD LEG
+http://pfsv.io:80/7125938483/5158/123541
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Cult HD LEG" tvg-logo="http://p6.vc/P" group-title="Canais | Legendados" tvg-shift="-3",Telecine Cult HD LEG
+http://pfsv.io:80/7125938483/5158/123542
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glovo TV LEGENDA" tvg-logo="" group-title="Canais | Legendados" tvg-shift="-3",Glovo TV LEGENDA
+http://pfsv.io:80/7125938483/5158/123543
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Pipoca FHD LEG" tvg-logo="http://p6.vc/L" group-title="Canais | Legendados" tvg-shift="-3",Telecine Pipoca FHD LEG
+http://pfsv.io:80/7125938483/5158/123548
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Premium FHD LEG" tvg-logo="http://p6.vc/M" group-title="Canais | Legendados" tvg-shift="-3",Telecine Premium FHD LEG
+http://pfsv.io:80/7125938483/5158/123549
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Action FHD LEG" tvg-logo="http://p6.vc/J" group-title="Canais | Legendados" tvg-shift="-3",Telecine Action FHD LEG
+http://pfsv.io:80/7125938483/5158/123550
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Touch FHD LEG" tvg-logo="http://p6.vc/N" group-title="Canais | Legendados" tvg-shift="-3",Telecine Touch FHD LEG
+http://pfsv.io:80/7125938483/5158/123551
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Fun FHD LEG" tvg-logo="http://p6.vc/K" group-title="Canais | Legendados" tvg-shift="-3",Telecine Fun FHD LEG
+http://pfsv.io:80/7125938483/5158/123552
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Cult FHD LEG" tvg-logo="http://p6.vc/P" group-title="Canais | Legendados" tvg-shift="-3",Telecine Cult FHD LEG
+http://pfsv.io:80/7125938483/5158/123553
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO POP FHD LEG" tvg-logo="http://p6.vc/O" group-title="Canais | Legendados" tvg-shift="-3",HBO POP FHD LEG
+http://pfsv.io:80/7125938483/5158/123554
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature FHD LEG" tvg-logo="http://p6.vc/W" group-title="Canais | Legendados" tvg-shift="-3",HBO Signature FHD LEG
+http://pfsv.io:80/7125938483/5158/123555
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature HD LEG" tvg-logo="http://p6.vc/W" group-title="Canais | Legendados" tvg-shift="-3",HBO Signature HD LEG
+http://pfsv.io:80/7125938483/5158/123556
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Mundi FHD LEG" tvg-logo="http://p6.vc/X" group-title="Canais | Legendados" tvg-shift="-3",HBO Mundi FHD LEG
+http://pfsv.io:80/7125938483/5158/123557
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Mundi HD LEG" tvg-logo="http://p6.vc/X" group-title="Canais | Legendados" tvg-shift="-3",HBO Mundi HD LEG
+http://pfsv.io:80/7125938483/5158/123558
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Xtream FHD LEG" tvg-logo="http://p6.vc/Y" group-title="Canais | Legendados" tvg-shift="-3",HBO Xtream FHD LEG
+http://pfsv.io:80/7125938483/5158/123559
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Xtream HD LEG" tvg-logo="http://p6.vc/Y" group-title="Canais | Legendados" tvg-shift="-3",HBO Xtream HD LEG
+http://pfsv.io:80/7125938483/5158/123560
