@@ -1529,6 +1529,10 @@ http://pfsv.io:80/7125938483/5158/110296
 http://pfsv.io:80/7125938483/5158/110299
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon Prime 01 [Alter2]" tvg-logo="" group-title="Canais | Amazon Prime Video" tvg-shift="-3",Amazon Prime 01 [Alter2]
 http://pfsv.io:80/7125938483/5158/123566
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon Prime 03 [Alter2]" tvg-logo="" group-title="Canais | Amazon Prime Video" tvg-shift="-3",Amazon Prime 03 [Alter2]
+http://pfsv.io:80/7125938483/5158/123568
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazon Prime 02 [Alter2]" tvg-logo="" group-title="Canais | Amazon Prime Video" tvg-shift="-3",Amazon Prime 02 [Alter2]
+http://pfsv.io:80/7125938483/5158/123567
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIS FHD" tvg-logo="http://p6.vc/e" group-title="Canais | Art & Music" tvg-shift="-3",BIS FHD
 http://pfsv.io:80/7125938483/5158/5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIS  FHD[H265]" tvg-logo="http://p6.vc/e" group-title="Canais | Art & Music" tvg-shift="-3",BIS  FHD[H265]
@@ -1597,6 +1601,10 @@ http://pfsv.io:80/7125938483/5158/30174
 http://pfsv.io:80/7125938483/5158/14
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WOOHOO SD" tvg-logo="http://p6.vc/f" group-title="Canais | Art & Music" tvg-shift="-3",WOOHOO SD
 http://pfsv.io:80/7125938483/5158/7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIKE HD" tvg-logo="" group-title="Canais | Art & Music" tvg-shift="-3",LIKE HD
+http://pfsv.io:80/7125938483/5158/125218
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIKE FHD" tvg-logo="" group-title="Canais | Art & Music" tvg-shift="-3",LIKE FHD
+http://pfsv.io:80/7125938483/5158/125219
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Athletico Furacao TV" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Athletico Furacao TV
 http://pfsv.io:80/7125938483/5158/116350
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAIANO 2022" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",BAIANO 2022
@@ -2359,6 +2367,8 @@ http://pfsv.io:80/7125938483/5158/122813
 http://pfsv.io:80/7125938483/5158/122814
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Filmstream" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Filmstream
 http://pfsv.io:80/7125938483/5158/122815
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[AR] Sky Flix Aflam 2" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[AR] Sky Flix Aflam 2
+http://pfsv.io:80/7125938483/5158/122793
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="http://p6.vc/Z" group-title="Canais | HBO" tvg-shift="-3",HBO 2 FHD
 http://pfsv.io:80/7125938483/5158/470
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD [H265]" tvg-logo="http://p6.vc/Z" group-title="Canais | HBO" tvg-shift="-3",HBO 2 FHD [H265]
@@ -3021,12 +3031,6 @@ http://pfsv.io:80/7125938483/5158/58203
 http://pfsv.io:80/7125938483/5158/58208
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] MSNBC News FHD" tvg-logo="" group-title="Canais | Notícias" tvg-shift="-3",[US] MSNBC News FHD
 http://pfsv.io:80/7125938483/5158/109514
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power Couple 6 (2022)" tvg-logo="" group-title="Canais | Power Couple 2022" tvg-shift="-3",Power Couple 6 (2022)
-http://pfsv.io:80/7125938483/5158/116343
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ilha Record HD" tvg-logo="" group-title="Canais | Power Couple 2022" tvg-shift="-3",Ilha Record HD
-http://pfsv.io:80/7125938483/5158/121644
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ilha Record HD [Alter]" tvg-logo="" group-title="Canais | Power Couple 2022" tvg-shift="-3",Ilha Record HD [Alter]
-http://pfsv.io:80/7125938483/5158/121645
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://p6.vc/1" group-title="Canais | Premiere" tvg-shift="-3",Premiere 2 FHD
 http://pfsv.io:80/7125938483/5158/525
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD [H265]" tvg-logo="http://p6.vc/1" group-title="Canais | Premiere" tvg-shift="-3",Premiere 2 FHD [H265]
@@ -4501,98 +4505,144 @@ http://pfsv.io:80/7125938483/5158/101322
 http://pfsv.io:80/7125938483/5158/101324
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] TVI Reality HD" tvg-logo="" group-title="Canais | Variedades" tvg-shift="-3",[PT] TVI Reality HD
 http://pfsv.io:80/7125938483/5158/1047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Gazeta FM - 88.1 FM" tvg-logo="http://p6.vc/b8" group-title="Radios" tvg-shift="-3",[SP] Gazeta FM - 88.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Gazeta FM - 88.1 FM" tvg-logo="http://p6.vc/b8" group-title="RADIOS" tvg-shift="-3",[SP] Gazeta FM - 88.1 FM
 http://pfsv.io:80/7125938483/5158/32275
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Rádio Bandeirantes - 90.9 FM" tvg-logo="http://p6.vc/b6" group-title="Radios" tvg-shift="-3",[SP] Rádio Bandeirantes - 90.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Rádio Bandeirantes - 90.9 FM" tvg-logo="http://p6.vc/b6" group-title="RADIOS" tvg-shift="-3",[SP] Rádio Bandeirantes - 90.9 FM
 http://pfsv.io:80/7125938483/5158/32273
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Estilo FM - 92.5 FM" tvg-logo="http://p6.vc/b4" group-title="Radios" tvg-shift="-3",[SP] Estilo FM - 92.5 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Estilo FM - 92.5 FM" tvg-logo="http://p6.vc/b4" group-title="RADIOS" tvg-shift="-3",[SP] Estilo FM - 92.5 FM
 http://pfsv.io:80/7125938483/5158/32271
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Antena 1 - 94.7 FM" tvg-logo="http://p6.vc/b3" group-title="Radios" tvg-shift="-3",[SP] Antena 1 - 94.7 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Antena 1 - 94.7 FM" tvg-logo="http://p6.vc/b3" group-title="RADIOS" tvg-shift="-3",[SP] Antena 1 - 94.7 FM
 http://pfsv.io:80/7125938483/5158/32270
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Nativa FM - 95.3 FM" tvg-logo="http://p6.vc/b2" group-title="Radios" tvg-shift="-3",[SP] Nativa FM - 95.3 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Nativa FM - 95.3 FM" tvg-logo="http://p6.vc/b2" group-title="RADIOS" tvg-shift="-3",[SP] Nativa FM - 95.3 FM
 http://pfsv.io:80/7125938483/5158/32269
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Band FM - 96.1 FM" tvg-logo="http://p6.vc/b1" group-title="Radios" tvg-shift="-3",[SP] Band FM - 96.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Band FM - 96.1 FM" tvg-logo="http://p6.vc/b1" group-title="RADIOS" tvg-shift="-3",[SP] Band FM - 96.1 FM
 http://pfsv.io:80/7125938483/5158/32268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] BandNews FM - 96.9 FM" tvg-logo="http://p6.vc/b0" group-title="Radios" tvg-shift="-3",[SP] BandNews FM - 96.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] BandNews FM - 96.9 FM" tvg-logo="http://p6.vc/b0" group-title="RADIOS" tvg-shift="-3",[SP] BandNews FM - 96.9 FM
 http://pfsv.io:80/7125938483/5158/32267
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Energia 97 FM - 97.7 FM" tvg-logo="http://p6.vc/bZ" group-title="Radios" tvg-shift="-3",[SP] Energia 97 FM - 97.7 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Energia 97 FM - 97.7 FM" tvg-logo="http://p6.vc/bZ" group-title="RADIOS" tvg-shift="-3",[SP] Energia 97 FM - 97.7 FM
 http://pfsv.io:80/7125938483/5158/32266
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Metropolitana FM - 98.5 FM" tvg-logo="http://p6.vc/bY" group-title="Radios" tvg-shift="-3",[SP] Metropolitana FM - 98.5 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Metropolitana FM - 98.5 FM" tvg-logo="http://p6.vc/bY" group-title="RADIOS" tvg-shift="-3",[SP] Metropolitana FM - 98.5 FM
 http://pfsv.io:80/7125938483/5158/32265
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Jovem Pan FM - 100.9 FM" tvg-logo="http://p6.vc/bW" group-title="Radios" tvg-shift="-3",[SP] Jovem Pan FM - 100.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Jovem Pan FM - 100.9 FM" tvg-logo="http://p6.vc/bW" group-title="RADIOS" tvg-shift="-3",[SP] Jovem Pan FM - 100.9 FM
 http://pfsv.io:80/7125938483/5158/32263
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Kiss FM - 102.1 FM" tvg-logo="http://p6.vc/bU" group-title="Radios" tvg-shift="-3",[SP] Kiss FM - 102.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Kiss FM - 102.1 FM" tvg-logo="http://p6.vc/bU" group-title="RADIOS" tvg-shift="-3",[SP] Kiss FM - 102.1 FM
 http://pfsv.io:80/7125938483/5158/32261
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Top FM - 104.1 FM" tvg-logo="http://p6.vc/bT" group-title="Radios" tvg-shift="-3",[SP] Top FM - 104.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Top FM - 104.1 FM" tvg-logo="http://p6.vc/bT" group-title="RADIOS" tvg-shift="-3",[SP] Top FM - 104.1 FM
 http://pfsv.io:80/7125938483/5158/32260
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Tropical FM - 107.9 FM" tvg-logo="http://p6.vc/bR" group-title="Radios" tvg-shift="-3",[SP] Tropical FM - 107.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Tropical FM - 107.9 FM" tvg-logo="http://p6.vc/bR" group-title="RADIOS" tvg-shift="-3",[SP] Tropical FM - 107.9 FM
 http://pfsv.io:80/7125938483/5158/32258
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Rádio Mania FM - 91.1 FM" tvg-logo="http://p6.vc/bQ" group-title="Radios" tvg-shift="-3",[RJ] Rádio Mania FM - 91.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Rádio Mania FM - 91.1 FM" tvg-logo="http://p6.vc/bQ" group-title="RADIOS" tvg-shift="-3",[RJ] Rádio Mania FM - 91.1 FM
 http://pfsv.io:80/7125938483/5158/32257
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] BandNews FM - 90.3 FM" tvg-logo="http://p6.vc/bP" group-title="Radios" tvg-shift="-3",[RJ] BandNews FM - 90.3 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] BandNews FM - 90.3 FM" tvg-logo="http://p6.vc/bP" group-title="RADIOS" tvg-shift="-3",[RJ] BandNews FM - 90.3 FM
 http://pfsv.io:80/7125938483/5158/32256
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] SulAmérica Paradiso - 95.7 FM" tvg-logo="http://p6.vc/bO" group-title="Radios" tvg-shift="-3",[RJ] SulAmérica Paradiso - 95.7 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] SulAmérica Paradiso - 95.7 FM" tvg-logo="http://p6.vc/bO" group-title="RADIOS" tvg-shift="-3",[RJ] SulAmérica Paradiso - 95.7 FM
 http://pfsv.io:80/7125938483/5158/32255
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Super Rádio Tupi - 96.5 FM" tvg-logo="http://p6.vc/bN" group-title="Radios" tvg-shift="-3",[RJ] Super Rádio Tupi - 96.5 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Super Rádio Tupi - 96.5 FM" tvg-logo="http://p6.vc/bN" group-title="RADIOS" tvg-shift="-3",[RJ] Super Rádio Tupi - 96.5 FM
 http://pfsv.io:80/7125938483/5158/32254
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Rádio Globo - 98.1 FM" tvg-logo="http://p6.vc/bM" group-title="Radios" tvg-shift="-3",[RJ] Rádio Globo - 98.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Rádio Globo - 98.1 FM" tvg-logo="http://p6.vc/bM" group-title="RADIOS" tvg-shift="-3",[RJ] Rádio Globo - 98.1 FM
 http://pfsv.io:80/7125938483/5158/32253
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] JB FM - 99.9 FM" tvg-logo="http://p6.vc/bL" group-title="Radios" tvg-shift="-3",[RJ] JB FM - 99.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] JB FM - 99.9 FM" tvg-logo="http://p6.vc/bL" group-title="RADIOS" tvg-shift="-3",[RJ] JB FM - 99.9 FM
 http://pfsv.io:80/7125938483/5158/32252
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Transamérica - 101.3 FM" tvg-logo="http://p6.vc/bJ" group-title="Radios" tvg-shift="-3",[RJ] Transamérica - 101.3 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Transamérica - 101.3 FM" tvg-logo="http://p6.vc/bJ" group-title="RADIOS" tvg-shift="-3",[RJ] Transamérica - 101.3 FM
 http://pfsv.io:80/7125938483/5158/32250
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Rádio Mix FM - 102.1 FM" tvg-logo="http://p6.vc/bI" group-title="Radios" tvg-shift="-3",[RJ] Rádio Mix FM - 102.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Rádio Mix FM - 102.1 FM" tvg-logo="http://p6.vc/bI" group-title="RADIOS" tvg-shift="-3",[RJ] Rádio Mix FM - 102.1 FM
 http://pfsv.io:80/7125938483/5158/32249
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Rádio Cidade FM - 102.9 FM" tvg-logo="http://p6.vc/bH" group-title="Radios" tvg-shift="-3",[RJ] Rádio Cidade FM - 102.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Rádio Cidade FM - 102.9 FM" tvg-logo="http://p6.vc/bH" group-title="RADIOS" tvg-shift="-3",[RJ] Rádio Cidade FM - 102.9 FM
 http://pfsv.io:80/7125938483/5158/32248
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Antena 1 - 103.7 FM" tvg-logo="http://p6.vc/bG" group-title="Radios" tvg-shift="-3",[RJ] Antena 1 - 103.7 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] Antena 1 - 103.7 FM" tvg-logo="http://p6.vc/bG" group-title="RADIOS" tvg-shift="-3",[RJ] Antena 1 - 103.7 FM
 http://pfsv.io:80/7125938483/5158/32247
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Transamérica Hits - 88.7 FM" tvg-logo="http://p6.vc/bF" group-title="Radios" tvg-shift="-3",[MG] Transamérica Hits - 88.7 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Transamérica Hits - 88.7 FM" tvg-logo="http://p6.vc/bF" group-title="RADIOS" tvg-shift="-3",[MG] Transamérica Hits - 88.7 FM
 http://pfsv.io:80/7125938483/5158/32246
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] BandNews FM - 89.5 FM" tvg-logo="bandnewsfmmg.png" group-title="Radios" tvg-shift="-3",[MG] BandNews FM - 89.5 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] BandNews FM - 89.5 FM" tvg-logo="bandnewsfmmg.png" group-title="RADIOS" tvg-shift="-3",[MG] BandNews FM - 89.5 FM
 http://pfsv.io:80/7125938483/5158/32245
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Alvorada FM - 94.9 FM" tvg-logo="http://p6.vc/bE" group-title="Radios" tvg-shift="-3",[MG] Alvorada FM - 94.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Alvorada FM - 94.9 FM" tvg-logo="http://p6.vc/bE" group-title="RADIOS" tvg-shift="-3",[MG] Alvorada FM - 94.9 FM
 http://pfsv.io:80/7125938483/5158/32244
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Jovem Pan FM - 99.1 FM" tvg-logo="http://p6.vc/bD" group-title="Radios" tvg-shift="-3",[MG] Jovem Pan FM - 99.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Jovem Pan FM - 99.1 FM" tvg-logo="http://p6.vc/bD" group-title="RADIOS" tvg-shift="-3",[MG] Jovem Pan FM - 99.1 FM
 http://pfsv.io:80/7125938483/5158/32243
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Rádio Inconfidência - 100.9 FM" tvg-logo="http://p6.vc/bC" group-title="Radios" tvg-shift="-3",[MG] Rádio Inconfidência - 100.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Rádio Inconfidência - 100.9 FM" tvg-logo="http://p6.vc/bC" group-title="RADIOS" tvg-shift="-3",[MG] Rádio Inconfidência - 100.9 FM
 http://pfsv.io:80/7125938483/5158/32242
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] BHFM - 102.1 FM" tvg-logo="http://p6.vc/bB" group-title="Radios" tvg-shift="-3",[MG] BHFM - 102.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] BHFM - 102.1 FM" tvg-logo="http://p6.vc/bB" group-title="RADIOS" tvg-shift="-3",[MG] BHFM - 102.1 FM
 http://pfsv.io:80/7125938483/5158/32241
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Rádio Itatiaia - 95.7 FM" tvg-logo="http://p6.vc/bA" group-title="Radios" tvg-shift="-3",[MG] Rádio Itatiaia - 95.7 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Rádio Itatiaia - 95.7 FM" tvg-logo="http://p6.vc/bA" group-title="RADIOS" tvg-shift="-3",[MG] Rádio Itatiaia - 95.7 FM
 http://pfsv.io:80/7125938483/5158/32240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] CDL FM - 102.9 FM" tvg-logo="http://p6.vc/bz" group-title="Radios" tvg-shift="-3",[MG] CDL FM - 102.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] CDL FM - 102.9 FM" tvg-logo="http://p6.vc/bz" group-title="RADIOS" tvg-shift="-3",[MG] CDL FM - 102.9 FM
 http://pfsv.io:80/7125938483/5158/32239
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Extra FM - 103.9 FM" tvg-logo="http://p6.vc/by" group-title="Radios" tvg-shift="-3",[MG] Extra FM - 103.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Extra FM - 103.9 FM" tvg-logo="http://p6.vc/by" group-title="RADIOS" tvg-shift="-3",[MG] Extra FM - 103.9 FM
 http://pfsv.io:80/7125938483/5158/32238
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Autêntica Favela FM - 106.7 FM" tvg-logo="http://p6.vc/bx" group-title="Radios" tvg-shift="-3",[MG] Autêntica Favela FM - 106.7 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] Autêntica Favela FM - 106.7 FM" tvg-logo="http://p6.vc/bx" group-title="RADIOS" tvg-shift="-3",[MG] Autêntica Favela FM - 106.7 FM
 http://pfsv.io:80/7125938483/5158/32237
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Jovem Pan FM - 90.7 FM" tvg-logo="http://p6.vc/bw" group-title="Radios" tvg-shift="-3",[RS] Jovem Pan FM - 90.7 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Jovem Pan FM - 90.7 FM" tvg-logo="http://p6.vc/bw" group-title="RADIOS" tvg-shift="-3",[RS] Jovem Pan FM - 90.7 FM
 http://pfsv.io:80/7125938483/5158/32236
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Rádio Gaúcha - 93.7 FM" tvg-logo="http://p6.vc/bv" group-title="Radios" tvg-shift="-3",[RS] Rádio Gaúcha - 93.7 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Rádio Gaúcha - 93.7 FM" tvg-logo="http://p6.vc/bv" group-title="RADIOS" tvg-shift="-3",[RS] Rádio Gaúcha - 93.7 FM
 http://pfsv.io:80/7125938483/5158/32235
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Rádio Grenal - 95.9 FM" tvg-logo="http://p6.vc/bu" group-title="Radios" tvg-shift="-3",[RS] Rádio Grenal - 95.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Rádio Grenal - 95.9 FM" tvg-logo="http://p6.vc/bu" group-title="RADIOS" tvg-shift="-3",[RS] Rádio Grenal - 95.9 FM
 http://pfsv.io:80/7125938483/5158/32234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Rádio Pampa - 97.5 FM" tvg-logo="http://p6.vc/bt" group-title="Radios" tvg-shift="-3",[RS] Rádio Pampa - 97.5 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Rádio Pampa - 97.5 FM" tvg-logo="http://p6.vc/bt" group-title="RADIOS" tvg-shift="-3",[RS] Rádio Pampa - 97.5 FM
 http://pfsv.io:80/7125938483/5158/32233
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Continental FM - 98.3 FM" tvg-logo="http://p6.vc/bs" group-title="Radios" tvg-shift="-3",[RS] Continental FM - 98.3 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Continental FM - 98.3 FM" tvg-logo="http://p6.vc/bs" group-title="RADIOS" tvg-shift="-3",[RS] Continental FM - 98.3 FM
 http://pfsv.io:80/7125938483/5158/32232
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Rádio Mix FM - 107.1 FM" tvg-logo="http://p6.vc/br" group-title="Radios" tvg-shift="-3",[RS] Rádio Mix FM - 107.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Rádio Mix FM - 107.1 FM" tvg-logo="http://p6.vc/br" group-title="RADIOS" tvg-shift="-3",[RS] Rádio Mix FM - 107.1 FM
 http://pfsv.io:80/7125938483/5158/32231
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] FM Express - 104.9 FM" tvg-logo="http://p6.vc/bq" group-title="Radios" tvg-shift="-3",[RS] FM Express - 104.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] FM Express - 104.9 FM" tvg-logo="http://p6.vc/bq" group-title="RADIOS" tvg-shift="-3",[RS] FM Express - 104.9 FM
 http://pfsv.io:80/7125938483/5158/32230
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] 104 FM - 104.1 FM" tvg-logo="http://p6.vc/bp" group-title="Radios" tvg-shift="-3",[RS] 104 FM - 104.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] 104 FM - 104.1 FM" tvg-logo="http://p6.vc/bp" group-title="RADIOS" tvg-shift="-3",[RS] 104 FM - 104.1 FM
 http://pfsv.io:80/7125938483/5158/32229
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Rádio Caiçara - 96.7 FM" tvg-logo="http://p6.vc/bo" group-title="Radios" tvg-shift="-3",[RS] Rádio Caiçara - 96.7 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] Rádio Caiçara - 96.7 FM" tvg-logo="http://p6.vc/bo" group-title="RADIOS" tvg-shift="-3",[RS] Rádio Caiçara - 96.7 FM
 http://pfsv.io:80/7125938483/5158/32228
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Rádio Gospel - 90.1 FM" tvg-logo="http://p6.vc/bn" group-title="Radios" tvg-shift="-3",[SP] Rádio Gospel - 90.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Rádio Gospel - 90.1 FM" tvg-logo="http://p6.vc/bn" group-title="RADIOS" tvg-shift="-3",[SP] Rádio Gospel - 90.1 FM
 http://pfsv.io:80/7125938483/5158/32227
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Rádio Trânsito FM - 92.1 FM" tvg-logo="http://p6.vc/bm" group-title="Radios" tvg-shift="-3",[SP] Rádio Trânsito FM - 92.1 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Rádio Trânsito FM - 92.1 FM" tvg-logo="http://p6.vc/bm" group-title="RADIOS" tvg-shift="-3",[SP] Rádio Trânsito FM - 92.1 FM
 http://pfsv.io:80/7125938483/5158/32226
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] BandNews SP FM - 96.9 FM" tvg-logo="http://p6.vc/bl" group-title="Radios" tvg-shift="-3",[MG] BandNews SP FM - 96.9 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MG] BandNews SP FM - 96.9 FM" tvg-logo="http://p6.vc/bl" group-title="RADIOS" tvg-shift="-3",[MG] BandNews SP FM - 96.9 FM
 http://pfsv.io:80/7125938483/5158/32225
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] FM O Dia - 100.5 FM" tvg-logo="http://p6.vc/bK" group-title="Radios" tvg-shift="-3",[RJ] FM O Dia - 100.5 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RJ] FM O Dia - 100.5 FM" tvg-logo="http://p6.vc/bK" group-title="RADIOS" tvg-shift="-3",[RJ] FM O Dia - 100.5 FM
 http://pfsv.io:80/7125938483/5158/32251
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] 89 FM A Rádio Rock - 89.1 FM" tvg-logo="http://p6.vc/b7" group-title="RADIOS" tvg-shift="-3",[SP] 89 FM A Rádio Rock - 89.1 FM
+http://pfsv.io:80/7125938483/5158/32274
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Rádio Disney - 91.3 FM" tvg-logo="http://p6.vc/b5" group-title="RADIOS" tvg-shift="-3",[SP] Rádio Disney - 91.3 FM
+http://pfsv.io:80/7125938483/5158/32272
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Transamérica - 100.1 FM" tvg-logo="http://p6.vc/bX" group-title="RADIOS" tvg-shift="-3",[SP] Transamérica - 100.1 FM
+http://pfsv.io:80/7125938483/5158/32264
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Alpha FM - 101.7 FM" tvg-logo="http://p6.vc/bV" group-title="RADIOS" tvg-shift="-3",[SP] Alpha FM - 101.7 FM
+http://pfsv.io:80/7125938483/5158/32262
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Rádio Mix FM - 106.3 FM" tvg-logo="http://p6.vc/bS" group-title="RADIOS" tvg-shift="-3",[SP] Rádio Mix FM - 106.3 FM
+http://pfsv.io:80/7125938483/5158/32259
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM 01 [ALTER2]" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM 01 [ALTER2]
+http://pfsv.io:80/7125938483/5158/121645
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 08" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 08
+http://pfsv.io:80/7125938483/5158/125193
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 07" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 07
+http://pfsv.io:80/7125938483/5158/125194
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 06" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 06
+http://pfsv.io:80/7125938483/5158/125195
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 05" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 05
+http://pfsv.io:80/7125938483/5158/125196
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 04" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 04
+http://pfsv.io:80/7125938483/5158/125197
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 03" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 03
+http://pfsv.io:80/7125938483/5158/125198
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 02" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 02
+http://pfsv.io:80/7125938483/5158/125199
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 01" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 01
+http://pfsv.io:80/7125938483/5158/125200
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda SInal 09" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda SInal 09
+http://pfsv.io:80/7125938483/5158/125201
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM02 [ALTER2]" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM02 [ALTER2]
+http://pfsv.io:80/7125938483/5158/125210
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM03 [ALTER2]" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM03 [ALTER2]
+http://pfsv.io:80/7125938483/5158/125211
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM04 [ALTER2]" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM04 [ALTER2]
+http://pfsv.io:80/7125938483/5158/125212
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM05 [ALTER2]" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM05 [ALTER2]
+http://pfsv.io:80/7125938483/5158/125213
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM06 [ALTER2]" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM06 [ALTER2]
+http://pfsv.io:80/7125938483/5158/125214
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM07 [ALTER2]" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM07 [ALTER2]
+http://pfsv.io:80/7125938483/5158/125215
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM08 [ALTER2]" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM08 [ALTER2]
+http://pfsv.io:80/7125938483/5158/125216
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM09 [ALTER2]" tvg-logo="" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM09 [ALTER2]
+http://pfsv.io:80/7125938483/5158/125217
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD LEG" tvg-logo="http://p6.vc/H" group-title="Canais | Legendados" tvg-shift="-3",AXN HD LEG
 http://pfsv.io:80/7125938483/5158/122933
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN SD LEG" tvg-logo="http://p6.vc/H" group-title="Canais | Legendados" tvg-shift="-3",AXN SD LEG
@@ -4705,3 +4755,5 @@ http://pfsv.io:80/7125938483/5158/123558
 http://pfsv.io:80/7125938483/5158/123559
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Xtream HD LEG" tvg-logo="http://p6.vc/Y" group-title="Canais | Legendados" tvg-shift="-3",HBO Xtream HD LEG
 http://pfsv.io:80/7125938483/5158/123560
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Altar Central - Santuário de Aparecida" tvg-logo="" group-title="(no group)" tvg-shift="-3",Altar Central - Santuário de Aparecida
+http://pfsv.io:80/7125938483/5158/58159
