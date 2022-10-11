@@ -95,6 +95,10 @@ http://pfsv.io:80/7125938483/5158/108401
 http://pfsv.io:80/7125938483/5158/124093
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Channel HD" tvg-logo="" group-title="Canais | Esportes" tvg-shift="-3",Golf Channel HD
 http://pfsv.io:80/7125938483/5158/124094
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL HD" tvg-logo="" group-title="Canais | Esportes" tvg-shift="-3",NFL HD
+http://pfsv.io:80/7125938483/5158/126459
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA HD" tvg-logo="" group-title="Canais | Esportes" tvg-shift="-3",NBA HD
+http://pfsv.io:80/7125938483/5158/126460
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Anhanguera Goiania SD" tvg-logo="http://p6.vc/C" group-title="Canais | Globo" tvg-shift="-3",Globo Anhanguera Goiania SD
 http://pfsv.io:80/7125938483/5158/32427
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Asa Branca SD" tvg-logo="http://p6.vc/C" group-title="Canais | Globo" tvg-shift="-3",Globo TV Asa Branca SD
@@ -699,9 +703,9 @@ http://pfsv.io:80/7125938483/5158/1066
 http://pfsv.io:80/7125938483/5158/1067
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT FHD[H265]" tvg-logo="http://p6.vc/j" group-title="Canais | Abertos" tvg-shift="-3",SBT FHD[H265]
 http://pfsv.io:80/7125938483/5158/122124
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band RJ FHD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band RJ FHD
+#EXTINF:-1 tvg-id="BandRio.br" tvg-name="Band RJ FHD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band RJ FHD
 http://pfsv.io:80/7125938483/5158/122446
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band RJ HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band RJ HD
+#EXTINF:-1 tvg-id="BandRio.br" tvg-name="Band RJ HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band RJ HD
 http://pfsv.io:80/7125938483/5158/122447
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Teresina HD" tvg-logo="http://p6.vc/h" group-title="Canais | Abertos" tvg-shift="-3",Band Teresina HD
 http://pfsv.io:80/7125938483/5158/123573
