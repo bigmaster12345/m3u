@@ -103,10 +103,6 @@ http://pfsv.io:80/7125938483/5158/116354
 http://pfsv.io:80/7125938483/5158/53287
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MyCujoo TV" tvg-logo="http://p6.vc/VOK" group-title="Canais | Jogos & Eventos" tvg-shift="-3",MyCujoo TV
 http://pfsv.io:80/7125938483/5158/56135
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA League Pass 01" tvg-logo="http://p6.vc/VPH" group-title="Canais | Jogos & Eventos" tvg-shift="-3",NBA League Pass 01
-http://pfsv.io:80/7125938483/5158/115087
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA Pass Live 01 HD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",NBA Pass Live 01 HD
-http://pfsv.io:80/7125938483/5158/127313
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premiere Internacional" tvg-logo="http://p6.vc/AWN" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Premiere Internacional
 http://pfsv.io:80/7125938483/5158/501
 #EXTINF:-1 tvg-id="RaiItalia(Italian).br" tvg-name="Rai Italia FHD" tvg-logo="http://p6.vc/VJW" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Rai Italia FHD
@@ -147,42 +143,6 @@ http://pfsv.io:80/7125938483/5158/33376
 http://pfsv.io:80/7125938483/5158/119639
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Olympics Channel TV" tvg-logo="http://p6.vc/WMD" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Olympics Channel TV
 http://pfsv.io:80/7125938483/5158/130687
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM 01 [ALTER2]" tvg-logo="http://p6.vc/TZW" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM 01 [ALTER2]
-http://pfsv.io:80/7125938483/5158/121645
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM02 [ALTER2]" tvg-logo="http://p6.vc/UAR" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM02 [ALTER2]
-http://pfsv.io:80/7125938483/5158/125210
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM03 [ALTER2]" tvg-logo="http://p6.vc/UAS" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM03 [ALTER2]
-http://pfsv.io:80/7125938483/5158/125211
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM04 [ALTER2]" tvg-logo="http://p6.vc/UAT" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM04 [ALTER2]
-http://pfsv.io:80/7125938483/5158/125212
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM05 [ALTER2]" tvg-logo="http://p6.vc/UAU" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM05 [ALTER2]
-http://pfsv.io:80/7125938483/5158/125213
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM06 [ALTER2]" tvg-logo="http://p6.vc/UAV" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM06 [ALTER2]
-http://pfsv.io:80/7125938483/5158/125214
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM07 [ALTER2]" tvg-logo="http://p6.vc/UAW" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM07 [ALTER2]
-http://pfsv.io:80/7125938483/5158/125215
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM08 [ALTER2]" tvg-logo="http://p6.vc/UAX" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM08 [ALTER2]
-http://pfsv.io:80/7125938483/5158/125216
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda 14 CAM09 [ALTER2]" tvg-logo="http://p6.vc/UAY" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda 14 CAM09 [ALTER2]
-http://pfsv.io:80/7125938483/5158/125217
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 01" tvg-logo="http://p6.vc/UAP" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 01
-http://pfsv.io:80/7125938483/5158/125200
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 02" tvg-logo="http://p6.vc/UAO" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 02
-http://pfsv.io:80/7125938483/5158/125199
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 03" tvg-logo="http://p6.vc/UAN" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 03
-http://pfsv.io:80/7125938483/5158/125198
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 04" tvg-logo="http://p6.vc/UAM" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 04
-http://pfsv.io:80/7125938483/5158/125197
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 05" tvg-logo="http://p6.vc/UAL" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 05
-http://pfsv.io:80/7125938483/5158/125196
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 06" tvg-logo="http://p6.vc/UAK" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 06
-http://pfsv.io:80/7125938483/5158/125195
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 07" tvg-logo="http://p6.vc/UAJ" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 07
-http://pfsv.io:80/7125938483/5158/125194
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 08" tvg-logo="http://p6.vc/UAI" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 08
-http://pfsv.io:80/7125938483/5158/125193
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fazenda Sinal 09" tvg-logo="http://p6.vc/UAP" group-title="Canais | A FAZENDA 14" tvg-shift="-3",A Fazenda Sinal 09
-http://pfsv.io:80/7125938483/5158/130290
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD" tvg-logo="http://p6.vc/APQ" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD
 http://pfsv.io:80/7125938483/5158/293
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD [H265]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD [H265]
@@ -419,10 +379,12 @@ http://pfsv.io:80/7125938483/5158/101334
 http://pfsv.io:80/7125938483/5158/101335
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] TVCine Emotion FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] TVCine Emotion FHD
 http://pfsv.io:80/7125938483/5158/101336
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] TVCine Top FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] TVCine Top FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] TVCine Top" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] TVCine Top
 http://pfsv.io:80/7125938483/5158/101337
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] MoviePlex FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[US] MoviePlex FHD
 http://pfsv.io:80/7125938483/5158/109521
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CA] Adult Swim" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[CA] Adult Swim
+http://pfsv.io:80/7125938483/5158/130925
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AgroMais FHD" tvg-logo="http://p6.vc/VRH" group-title="Canais | Variedades" tvg-shift="-3",AgroMais FHD
 http://pfsv.io:80/7125938483/5158/109512
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIS FHD [HDR]" tvg-logo="http://p6.vc/ONR" group-title="Canais | Variedades" tvg-shift="-3",BIS FHD [HDR]
@@ -557,8 +519,6 @@ http://pfsv.io:80/7125938483/5158/109518
 http://pfsv.io:80/7125938483/5158/101322
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] TVI FHD" tvg-logo="http://p6.vc/VMQ" group-title="Canais | Variedades" tvg-shift="-3",[PT] TVI FHD
 http://pfsv.io:80/7125938483/5158/101324
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] TVI Reality HD" tvg-logo="http://p6.vc/BPU" group-title="Canais | Variedades" tvg-shift="-3",[PT] TVI Reality HD
-http://pfsv.io:80/7125938483/5158/1047
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://p6.vc/AKY" group-title="Canais | Documentários" tvg-shift="-3",Animal Planet FHD
 http://pfsv.io:80/7125938483/5158/164
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="http://p6.vc/WHO" group-title="Canais | Documentários" tvg-shift="-3",Animal Planet FHD [H265]
@@ -939,7 +899,7 @@ http://pfsv.io:80/7125938483/5158/122934
 http://pfsv.io:80/7125938483/5158/123506
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX SD LEG" tvg-logo="http://p6.vc/WII" group-title="Canais | Legendados" tvg-shift="-3",FX SD LEG
 http://pfsv.io:80/7125938483/5158/123507
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glovo TV [LEG]" tvg-logo="http://p6.vc/WIR" group-title="Canais | Legendados" tvg-shift="-3",Glovo TV [LEG]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV [LEG]" tvg-logo="http://p6.vc/WIR" group-title="Canais | Legendados" tvg-shift="-3",Globo TV [LEG]
 http://pfsv.io:80/7125938483/5158/123543
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FHD LEG" tvg-logo="http://p6.vc/VVP" group-title="Canais | Legendados" tvg-shift="-3",HBO FHD LEG
 http://pfsv.io:80/7125938483/5158/123488
@@ -1565,6 +1525,8 @@ http://pfsv.io:80/7125938483/5158/108399
 http://pfsv.io:80/7125938483/5158/108400
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 5 Brasil HD" tvg-logo="http://p6.vc/WKM" group-title="Canais | Esportes" tvg-shift="-3",TNT Sports 5 Brasil HD
 http://pfsv.io:80/7125938483/5158/108401
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight PASS" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight PASS
+http://pfsv.io:80/7125938483/5158/131818
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIS FHD" tvg-logo="http://p6.vc/ONP" group-title="Canais | Art & Music" tvg-shift="-3",BIS FHD
 http://pfsv.io:80/7125938483/5158/5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIS  FHD[H265]" tvg-logo="http://p6.vc/ONR" group-title="Canais | Art & Music" tvg-shift="-3",BIS  FHD[H265]
@@ -4727,6 +4689,250 @@ http://pfsv.io:80/7125938483/5158/122820
 http://pfsv.io:80/7125938483/5158/122821
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] WWE Network FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] WWE Network FHD
 http://pfsv.io:80/7125938483/5158/63122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fight Box" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Fight Box
+http://pfsv.io:80/7125938483/5158/130921
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fight Sports" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Fight Sports
+http://pfsv.io:80/7125938483/5158/130922
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CA] Fight NetWork" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[CA] Fight NetWork
+http://pfsv.io:80/7125938483/5158/130923
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] NBA League Pass" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] NBA League Pass
+http://pfsv.io:80/7125938483/5158/130926
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Super Tennis" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[IT] Super Tennis
+http://pfsv.io:80/7125938483/5158/130927
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports 1
+http://pfsv.io:80/7125938483/5158/130928
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports 2
+http://pfsv.io:80/7125938483/5158/130929
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports 3
+http://pfsv.io:80/7125938483/5158/130930
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 4
+http://pfsv.io:80/7125938483/5158/130931
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 5
+http://pfsv.io:80/7125938483/5158/130932
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 6" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 6
+http://pfsv.io:80/7125938483/5158/130933
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 7" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 7
+http://pfsv.io:80/7125938483/5158/130934
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 8" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 8
+http://pfsv.io:80/7125938483/5158/130935
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 9" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 9
+http://pfsv.io:80/7125938483/5158/130936
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 10" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 10
+http://pfsv.io:80/7125938483/5158/130937
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ FORMULE 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ FORMULE 1
+http://pfsv.io:80/7125938483/5158/130938
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport
+http://pfsv.io:80/7125938483/5158/130939
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport 1
+http://pfsv.io:80/7125938483/5158/130940
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport 3
+http://pfsv.io:80/7125938483/5158/130941
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport 5
+http://pfsv.io:80/7125938483/5158/130942
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 1
+http://pfsv.io:80/7125938483/5158/130943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 2
+http://pfsv.io:80/7125938483/5158/130944
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 3
+http://pfsv.io:80/7125938483/5158/130945
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 4
+http://pfsv.io:80/7125938483/5158/130946
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 5
+http://pfsv.io:80/7125938483/5158/130947
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 7" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 7
+http://pfsv.io:80/7125938483/5158/130948
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 9" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 9
+http://pfsv.io:80/7125938483/5158/130949
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 10" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 10
+http://pfsv.io:80/7125938483/5158/130950
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 12" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 12
+http://pfsv.io:80/7125938483/5158/130951
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 13" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 13
+http://pfsv.io:80/7125938483/5158/130952
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 14" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 14
+http://pfsv.io:80/7125938483/5158/130953
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports
+http://pfsv.io:80/7125938483/5158/130954
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 1
+http://pfsv.io:80/7125938483/5158/130955
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 2
+http://pfsv.io:80/7125938483/5158/130956
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 3
+http://pfsv.io:80/7125938483/5158/130957
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 4
+http://pfsv.io:80/7125938483/5158/130958
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 5
+http://pfsv.io:80/7125938483/5158/130959
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 6" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 6
+http://pfsv.io:80/7125938483/5158/130960
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 7" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 7
+http://pfsv.io:80/7125938483/5158/130961
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports AFC" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports AFC
+http://pfsv.io:80/7125938483/5158/130962
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports AFC 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports AFC 1
+http://pfsv.io:80/7125938483/5158/130963
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports AFC 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports AFC 2
+http://pfsv.io:80/7125938483/5158/130964
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports AFC 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports AFC 3
+http://pfsv.io:80/7125938483/5158/130965
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports English 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports English 1
+http://pfsv.io:80/7125938483/5158/130966
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports English 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports English 2
+http://pfsv.io:80/7125938483/5158/130967
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports English 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports English 3
+http://pfsv.io:80/7125938483/5158/130968
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Max 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Max 1
+http://pfsv.io:80/7125938483/5158/130969
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Max 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Max 2
+http://pfsv.io:80/7125938483/5158/130970
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Max 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Max 3
+http://pfsv.io:80/7125938483/5158/130971
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Max 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Max 4
+http://pfsv.io:80/7125938483/5158/130972
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports News" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports News
+http://pfsv.io:80/7125938483/5158/130973
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Premium 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Premium 1
+http://pfsv.io:80/7125938483/5158/130974
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Premium 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Premium 2
+http://pfsv.io:80/7125938483/5158/130975
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Premium 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Premium 3
+http://pfsv.io:80/7125938483/5158/130976
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Xtra 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Xtra 1
+http://pfsv.io:80/7125938483/5158/130977
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Xtra 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Xtra 2
+http://pfsv.io:80/7125938483/5158/130978
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 1
+http://pfsv.io:80/7125938483/5158/130979
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 2
+http://pfsv.io:80/7125938483/5158/130980
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 3
+http://pfsv.io:80/7125938483/5158/130981
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 4
+http://pfsv.io:80/7125938483/5158/130982
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 5
+http://pfsv.io:80/7125938483/5158/130983
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 6" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 6
+http://pfsv.io:80/7125938483/5158/130984
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 7" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 7
+http://pfsv.io:80/7125938483/5158/130985
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 8" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 8
+http://pfsv.io:80/7125938483/5158/130986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 9" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 9
+http://pfsv.io:80/7125938483/5158/130987
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] EUROSPORT 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] EUROSPORT 1
+http://pfsv.io:80/7125938483/5158/130988
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] EUROSPORT 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] EUROSPORT 2
+http://pfsv.io:80/7125938483/5158/130989
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports 1
+http://pfsv.io:80/7125938483/5158/130990
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova sports 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova sports 2
+http://pfsv.io:80/7125938483/5158/130991
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports 3
+http://pfsv.io:80/7125938483/5158/130992
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports 4
+http://pfsv.io:80/7125938483/5158/130993
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports 5
+http://pfsv.io:80/7125938483/5158/130994
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports 6" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports 6
+http://pfsv.io:80/7125938483/5158/130995
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports News" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports News
+http://pfsv.io:80/7125938483/5158/130996
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova sports Prime" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova sports Prime
+http://pfsv.io:80/7125938483/5158/130997
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports Start" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports Start
+http://pfsv.io:80/7125938483/5158/130998
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Action" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Action
+http://pfsv.io:80/7125938483/5158/130999
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Arena" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Arena
+http://pfsv.io:80/7125938483/5158/131000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Cricket" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Cricket
+http://pfsv.io:80/7125938483/5158/131001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports F1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports F1
+http://pfsv.io:80/7125938483/5158/131002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Football" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Football
+http://pfsv.io:80/7125938483/5158/131003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Golf" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Golf
+http://pfsv.io:80/7125938483/5158/131004
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Main Event" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Main Event
+http://pfsv.io:80/7125938483/5158/131005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Mix" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Mix
+http://pfsv.io:80/7125938483/5158/131006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports News" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports News
+http://pfsv.io:80/7125938483/5158/131007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports NFL" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports NFL
+http://pfsv.io:80/7125938483/5158/131008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Premier League" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Premier League
+http://pfsv.io:80/7125938483/5158/131009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Racing" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Racing
+http://pfsv.io:80/7125938483/5158/131010
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MY] Astro SuperSport 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[MY] Astro SuperSport 1
+http://pfsv.io:80/7125938483/5158/131011
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MY] Astro SuperSport 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[MY] Astro SuperSport 2
+http://pfsv.io:80/7125938483/5158/131012
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MY] Astro SuperSport 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[MY] Astro SuperSport 3
+http://pfsv.io:80/7125938483/5158/131013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MY] Astro SuperSport 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[MY] Astro SuperSport 4
+http://pfsv.io:80/7125938483/5158/131014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Arizona Alternate" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Arizona Alternate
+http://pfsv.io:80/7125938483/5158/131015
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Arizona Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Arizona Plus
+http://pfsv.io:80/7125938483/5158/131016
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Detroit" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Detroit
+http://pfsv.io:80/7125938483/5158/131017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Detroit Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Detroit Plus
+http://pfsv.io:80/7125938483/5158/131018
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Florida" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Florida
+http://pfsv.io:80/7125938483/5158/131019
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Florida Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Florida Plus
+http://pfsv.io:80/7125938483/5158/131020
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Great Lakes" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Great Lakes
+http://pfsv.io:80/7125938483/5158/131021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Indiana" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Indiana
+http://pfsv.io:80/7125938483/5158/131022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Ohio" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Ohio
+http://pfsv.io:80/7125938483/5158/131023
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Ohio Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Ohio Plus
+http://pfsv.io:80/7125938483/5158/131024
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports San Diego" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports San Diego
+http://pfsv.io:80/7125938483/5158/131025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports San Diego Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports San Diego Plus
+http://pfsv.io:80/7125938483/5158/131026
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports SoCal" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports SoCal
+http://pfsv.io:80/7125938483/5158/131027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports SoCal Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports SoCal Plus
+http://pfsv.io:80/7125938483/5158/131028
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Kansas City" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Kansas City
+http://pfsv.io:80/7125938483/5158/131029
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Midwest" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Midwest
+http://pfsv.io:80/7125938483/5158/131030
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Midwest Alternate" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Midwest Alternate
+http://pfsv.io:80/7125938483/5158/131031
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Midwest Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Midwest Plus
+http://pfsv.io:80/7125938483/5158/131032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports New Orleans" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports New Orleans
+http://pfsv.io:80/7125938483/5158/131033
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports North" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports North
+http://pfsv.io:80/7125938483/5158/131034
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports North Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports North Plus
+http://pfsv.io:80/7125938483/5158/131035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Southeast" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Southeast
+http://pfsv.io:80/7125938483/5158/131036
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Southwest" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Southwest
+http://pfsv.io:80/7125938483/5158/131037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Southwest Alternate" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Southwest Alternate
+http://pfsv.io:80/7125938483/5158/131038
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Southwest Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Southwest Plus
+http://pfsv.io:80/7125938483/5158/131039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Sun" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Sun
+http://pfsv.io:80/7125938483/5158/131040
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Sun Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Sun Plus
+http://pfsv.io:80/7125938483/5158/131041
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports West" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports West
+http://pfsv.io:80/7125938483/5158/131042
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Wisconsin" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Wisconsin
+http://pfsv.io:80/7125938483/5158/131043
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Wisconsin Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Wisconsin Plus
+http://pfsv.io:80/7125938483/5158/131044
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CAM] Atlanta International Airport Cam 1" tvg-logo="http://p6.vc/VIC" group-title="Cameras ao Vivo" tvg-shift="-3",[CAM] Atlanta International Airport Cam 1
 http://pfsv.io:80/7125938483/5158/33397
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CAM] Atlanta International Airport Cam 2" tvg-logo="http://p6.vc/VID" group-title="Cameras ao Vivo" tvg-shift="-3",[CAM] Atlanta International Airport Cam 2
@@ -4797,6 +5003,36 @@ http://pfsv.io:80/7125938483/5158/33395
 http://pfsv.io:80/7125938483/5158/53326
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CAM] Yellowstone National Park - Geyser" tvg-logo="http://p6.vc/VIJ" group-title="Cameras ao Vivo" tvg-shift="-3",[CAM] Yellowstone National Park - Geyser
 http://pfsv.io:80/7125938483/5158/53324
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] TVI Reality HD" tvg-logo="http://p6.vc/BPU" group-title="Canais | Reality Shows" tvg-shift="-3",[PT] TVI Reality HD
+http://pfsv.io:80/7125938483/5158/1047
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[LA] Universal Reality" tvg-logo="" group-title="Canais | Reality Shows" tvg-shift="-3",[LA] Universal Reality
+http://pfsv.io:80/7125938483/5158/131045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] PINK Reality" tvg-logo="" group-title="Canais | Reality Shows" tvg-shift="-3",[RS] PINK Reality
+http://pfsv.io:80/7125938483/5158/131046
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa de Vidro BBB 23" tvg-logo="" group-title="Canais | Reality Shows" tvg-shift="-3",Casa de Vidro BBB 23
+http://pfsv.io:80/7125938483/5158/131819
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 12" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 12
+http://pfsv.io:80/7125938483/5158/131820
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 11" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 11
+http://pfsv.io:80/7125938483/5158/131821
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 10" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 10
+http://pfsv.io:80/7125938483/5158/131822
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 9" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 9
+http://pfsv.io:80/7125938483/5158/131823
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 8" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 8
+http://pfsv.io:80/7125938483/5158/131824
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 7" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 7
+http://pfsv.io:80/7125938483/5158/131825
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 6" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 6
+http://pfsv.io:80/7125938483/5158/131826
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 5" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 5
+http://pfsv.io:80/7125938483/5158/131827
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 4" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 4
+http://pfsv.io:80/7125938483/5158/131828
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 2" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 2
+http://pfsv.io:80/7125938483/5158/131830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 1" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 1
+http://pfsv.io:80/7125938483/5158/131831
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Gazeta FM - 88.1 FM" tvg-logo="http://p6.vc/b8" group-title="RADIOS" tvg-shift="-3",[SP] Gazeta FM - 88.1 FM
 http://pfsv.io:80/7125938483/5158/32275
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Rádio Bandeirantes - 90.9 FM" tvg-logo="http://p6.vc/VTK" group-title="RADIOS" tvg-shift="-3",[SP] Rádio Bandeirantes - 90.9 FM
