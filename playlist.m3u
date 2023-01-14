@@ -1471,7 +1471,7 @@ http://pfsv.io:80/7125938483/5158/270
 http://pfsv.io:80/7125938483/5158/250
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN FHD [HDR]" tvg-logo="http://p6.vc/AOS" group-title="Canais | Esportes" tvg-shift="-3",ESPN FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130180
-#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="ESPN FHD[H265]" tvg-logo="http://p6.vc/WKD" group-title="Canais | Esportes" tvg-shift="-3",ESPN FHD[H265]
+#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="ESPN FHD [H265]" tvg-logo="http://p6.vc/WKD" group-title="Canais | Esportes" tvg-shift="-3",ESPN FHD [H265]
 http://pfsv.io:80/7125938483/5158/30280
 #EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="ESPN HD" tvg-logo="http://p6.vc/AOJ" group-title="Canais | Esportes" tvg-shift="-3",ESPN HD
 http://pfsv.io:80/7125938483/5158/259
@@ -2321,7 +2321,7 @@ http://pfsv.io:80/7125938483/5158/474
 http://pfsv.io:80/7125938483/5158/467
 #EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi FHD [H265]" tvg-logo="http://p6.vc/VSP" group-title="Canais | HBO" tvg-shift="-3",HBO Mundi FHD [H265]
 http://pfsv.io:80/7125938483/5158/30239
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MUNDI FHD [HDR]" tvg-logo="http://p6.vc/VWO" group-title="Canais | HBO" tvg-shift="-3",HBO MUNDI FHD [HDR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Mundi FHD [HDR]" tvg-logo="http://p6.vc/VWO" group-title="Canais | HBO" tvg-shift="-3",HBO Mundi FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130208
 #EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://p6.vc/AVQ" group-title="Canais | HBO" tvg-shift="-3",HBO Mundi HD
 http://pfsv.io:80/7125938483/5158/477
@@ -2341,7 +2341,7 @@ http://pfsv.io:80/7125938483/5158/482
 http://pfsv.io:80/7125938483/5158/469
 #EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop FHD [H265]" tvg-logo="http://p6.vc/WHN" group-title="Canais | HBO" tvg-shift="-3",HBO Pop FHD [H265]
 http://pfsv.io:80/7125938483/5158/30241
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO POP FHD [HDR]" tvg-logo="http://p6.vc/WIS" group-title="Canais | HBO" tvg-shift="-3",HBO POP FHD [HDR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Pop FHD [HDR]" tvg-logo="http://p6.vc/WIS" group-title="Canais | HBO" tvg-shift="-3",HBO Pop FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130209
 #EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop HD" tvg-logo="http://p6.vc/AVS" group-title="Canais | HBO" tvg-shift="-3",HBO Pop HD
 http://pfsv.io:80/7125938483/5158/479
@@ -2363,7 +2363,7 @@ http://pfsv.io:80/7125938483/5158/484
 http://pfsv.io:80/7125938483/5158/468
 #EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme FHD [H265]" tvg-logo="http://p6.vc/WHM" group-title="Canais | HBO" tvg-shift="-3",HBO Xtreme FHD [H265]
 http://pfsv.io:80/7125938483/5158/30240
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO XTREME FHD [HDR]" tvg-logo="http://p6.vc/WIU" group-title="Canais | HBO" tvg-shift="-3",HBO XTREME FHD [HDR]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Xtreme FHD [HDR]" tvg-logo="http://p6.vc/WIU" group-title="Canais | HBO" tvg-shift="-3",HBO Xtreme FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130211
 #EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://p6.vc/AVR" group-title="Canais | HBO" tvg-shift="-3",HBO Xtreme HD
 http://pfsv.io:80/7125938483/5158/478
@@ -5011,27 +5011,27 @@ http://pfsv.io:80/7125938483/5158/131045
 http://pfsv.io:80/7125938483/5158/131046
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa de Vidro BBB 23" tvg-logo="" group-title="Canais | Reality Shows" tvg-shift="-3",Casa de Vidro BBB 23
 http://pfsv.io:80/7125938483/5158/131819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 12" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 12" tvg-logo="http://p6.vc/XNB" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 12
 http://pfsv.io:80/7125938483/5158/131820
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 11" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 11" tvg-logo="http://p6.vc/XNC" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 11
 http://pfsv.io:80/7125938483/5158/131821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 10" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 10" tvg-logo="http://p6.vc/XND" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 10
 http://pfsv.io:80/7125938483/5158/131822
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 9" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 9" tvg-logo="http://p6.vc/XNE" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 9
 http://pfsv.io:80/7125938483/5158/131823
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 8" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 8" tvg-logo="http://p6.vc/XNF" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 8
 http://pfsv.io:80/7125938483/5158/131824
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 7" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 7" tvg-logo="http://p6.vc/XNG" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 7
 http://pfsv.io:80/7125938483/5158/131825
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 6" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 6" tvg-logo="http://p6.vc/XNH" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 6
 http://pfsv.io:80/7125938483/5158/131826
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 5" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 5" tvg-logo="http://p6.vc/XNI" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 5
 http://pfsv.io:80/7125938483/5158/131827
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 4" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 4" tvg-logo="http://p6.vc/XNJ" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 4
 http://pfsv.io:80/7125938483/5158/131828
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 2" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 2" tvg-logo="http://p6.vc/XNL" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 2
 http://pfsv.io:80/7125938483/5158/131830
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 1" tvg-logo="https://www.seekpng.com/png/detail/22-226297_bbb-logo-big-brother-brasil-logo-big-brother.png" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 1" tvg-logo="http://p6.vc/XNM" group-title="Canais | Reality Shows" tvg-shift="-3",BBB CAM 1
 http://pfsv.io:80/7125938483/5158/131831
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[SP] Gazeta FM - 88.1 FM" tvg-logo="http://p6.vc/b8" group-title="RADIOS" tvg-shift="-3",[SP] Gazeta FM - 88.1 FM
 http://pfsv.io:80/7125938483/5158/32275
