@@ -18,4 +18,4 @@ jobs:
 
       # Download a file
       - name: Download M3U file
-        run: curl https://app.bidx.io/images/BidX-logo.png -o /
+        run: curl https://app.bidx.io/images/BidX-logo.png -o BidX-logo.png
