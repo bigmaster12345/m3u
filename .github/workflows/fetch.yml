@@ -32,5 +32,5 @@ jobs:
          git config --local user.email "action@github.com"
          git config --local user.name "GitHub Action"
          git add .
-         git diff-index --quiet HEAD || git commit -m "Fetch data workflow @ actions-user" -a
+         git diff-index --quiet HEAD || git commit -m "actions-user: Fetch data workflow" -a
          git push origin main:main
