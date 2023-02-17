@@ -5,8 +5,8 @@ name: Fetch data
 # Controls when the workflow will run
 on:
   schedule:
-    # Runs "at hour 6 past every day" (see https://crontab.guru)
-    - cron: '00 6 * * *'
+    # Runs "at hour 7 past every day" (see https://crontab.guru)
+    - cron: '00 7 * * *'
     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -20,8 +20,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Download a file
+      
+      - name: Download playlist.m3u file
         run: curl http://m3u4u.com/m3u/v158yx57q9u6dpqpn9mw -o playlist.m3u
+        
+      - name: Download EPG-Guide.xml.gz file
+        run: curl http://m3u4u.com/epg/v158yx57q9u6dpqpn9mw -o EPG-Guide.xml.gz
+        
       - name: Commit changes
         run: |
          git config --local user.email "action@github.com"
