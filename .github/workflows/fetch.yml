@@ -24,6 +24,14 @@ jobs:
       - name: Download playlist.m3u file
         run: curl http://m3u4u.com/m3u/v158yx57q9u6dpqpn9mw -o playlist.m3u
         
+      - name: Commit changes
+        run: |
+         git config --local user.email "action@github.com"
+         git config --local user.name "GitHub Action"
+         git add .
+         git diff-index --quiet HEAD || git commit -m "Fetch data workflow @ actions-user" -a
+         git push origin main:main
+
       - name: Download EPG-Guide.xml.gz file
         run: curl http://m3u4u.com/epg/v158yx57q9u6dpqpn9mw -o EPG-Guide.xml.gz
         
