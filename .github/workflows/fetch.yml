@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Download a file
-        run: curl https://bit.ly/3Kci7AF -o playlist.m3u
+        run: curl http://m3u4u.com/m3u/v158yx57q9u6dpqpn9mw -o playlist.m3u
       - name: Commit changes
         run: |
          git config --local user.email "action@github.com"
