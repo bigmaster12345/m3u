@@ -435,6 +435,8 @@ http://pfsv.io:80/7125938483/5158/101336
 http://pfsv.io:80/7125938483/5158/101337
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] MoviePlex FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[US] MoviePlex FHD
 http://pfsv.io:80/7125938483/5158/109521
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film&Arts FHD" tvg-logo="http://p6.vc/WKJ" group-title="Canais | Filmes e Séries" tvg-shift="-3",Film&Arts FHD
+http://pfsv.io:80/7125938483/5158/134867
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://p6.vc/VRH" group-title="Canais | Variedades" tvg-shift="-3",AgroMais FHD
 http://pfsv.io:80/7125938483/5158/109512
 #EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS FHD [HDR]" tvg-logo="http://p6.vc/ONR" group-title="Canais | Variedades" tvg-shift="-3",BIS FHD [HDR]
@@ -1277,8 +1279,6 @@ http://pfsv.io:80/7125938483/5158/108987
 http://pfsv.io:80/7125938483/5158/163
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] PANDA Kids HD" tvg-logo="" group-title="Canais | Infantis" tvg-shift="-3",[PT] PANDA Kids HD
 http://pfsv.io:80/7125938483/5158/137
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band + Campinas HD" tvg-logo="http://p6.vc/VVE" group-title="Canais | Abertos" tvg-shift="-3",Band + Campinas HD
-http://pfsv.io:80/7125938483/5158/109510
 #EXTINF:-1 tvg-id="BandBahia.br" tvg-name="Band Bahia HD" tvg-logo="http://p6.vc/VVI" group-title="Canais | Abertos" tvg-shift="-3",Band Bahia HD
 http://pfsv.io:80/7125938483/5158/113586
 #EXTINF:-1 tvg-id="BandCampinas.br" tvg-name="Band Campinas HD" tvg-logo="http://p6.vc/VVJ" group-title="Canais | Abertos" tvg-shift="-3",Band Campinas HD
