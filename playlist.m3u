@@ -751,14 +751,8 @@ http://pfsv.io:80/7125938483/5158/50864
 http://pfsv.io:80/7125938483/5158/582
 #EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT [4K]" tvg-logo="http://p6.vc/VNH" group-title="Canais | 4K" tvg-shift="-3",GNT [4K]
 http://pfsv.io:80/7125938483/5158/50870
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme [4K]" tvg-logo="http://p6.vc/Y" group-title="Canais | 4K" tvg-shift="-3",HBO Xtreme [4K]
-http://pfsv.io:80/7125938483/5158/5344
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO [4K]" tvg-logo="http://p6.vc/0" group-title="Canais | 4K" tvg-shift="-3",HBO [4K]
-http://pfsv.io:80/7125938483/5158/599
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem PAN News [4K]" tvg-logo="http://p6.vc/VPB" group-title="Canais | 4K" tvg-shift="-3",Jovem PAN News [4K]
 http://pfsv.io:80/7125938483/5158/98125
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix [4K]" tvg-logo="http://p6.vc/bd" group-title="Canais | 4K" tvg-shift="-3",Megapix [4K]
-http://pfsv.io:80/7125938483/5158/592
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MultiShow [4K]" tvg-logo="http://p6.vc/AZO" group-title="Canais | 4K" tvg-shift="-3",MultiShow [4K]
 http://pfsv.io:80/7125938483/5158/590
 #EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic [4K]" tvg-logo="http://p6.vc/bf" group-title="Canais | 4K" tvg-shift="-3",National Geographic [4K]
@@ -1575,7 +1569,7 @@ http://pfsv.io:80/7125938483/5158/247
 http://pfsv.io:80/7125938483/5158/130175
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD[H265]" tvg-logo="http://p6.vc/VSW" group-title="Canais | Esportes" tvg-shift="-3",Band Sports FHD[H265]
 http://pfsv.io:80/7125938483/5158/30275
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="http://p6.vc/AOO" group-title="Canais | Esportes" tvg-shift="-3",Band Sports HD
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports SD" tvg-logo="http://p6.vc/AOO" group-title="Canais | Esportes" tvg-shift="-3",Band Sports SD
 http://pfsv.io:80/7125938483/5158/265
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="http://p6.vc/AOG" group-title="Canais | Esportes" tvg-shift="-3",Band Sports HD
 http://pfsv.io:80/7125938483/5158/256
