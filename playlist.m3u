@@ -1559,7 +1559,7 @@ http://pfsv.io:80/7125938483/5158/59977
 http://pfsv.io:80/7125938483/5158/58204
 #EXTINF:-1 tvg-id="CNN.br" tvg-name="[US] CNN FHD" tvg-logo="http://p6.vc/VNJ" group-title="Canais | Notícias" tvg-shift="-3",[US] CNN FHD
 http://pfsv.io:80/7125938483/5158/58203
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] FOX News HD" tvg-logo="http://p6.vc/VNN" group-title="Canais | Notícias" tvg-shift="-3",[US] FOX News HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] FOX News HD [H265]" tvg-logo="http://p6.vc/VNN" group-title="Canais | Notícias" tvg-shift="-3",[US] FOX News HD [H265]
 http://pfsv.io:80/7125938483/5158/58208
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] MSNBC News FHD" tvg-logo="http://p6.vc/VOA" group-title="Canais | Notícias" tvg-shift="-3",[US] MSNBC News FHD
 http://pfsv.io:80/7125938483/5158/109514
