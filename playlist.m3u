@@ -1845,7 +1845,7 @@ http://pfsv.io:80/7125938483/5158/130224
 http://pfsv.io:80/7125938483/5158/16
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MultiShow SD" tvg-logo="http://p6.vc/AFJ" group-title="Canais | Art & Music" tvg-shift="-3",MultiShow SD
 http://pfsv.io:80/7125938483/5158/10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MultShow FHD [H265]" tvg-logo="http://p6.vc/VAM" group-title="Canais | Art & Music" tvg-shift="-3",MultShow FHD [H265]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MultiShow FHD [H265]" tvg-logo="http://p6.vc/VAM" group-title="Canais | Art & Music" tvg-shift="-3",MultiShow FHD [H265]
 http://pfsv.io:80/7125938483/5158/30173
 #EXTINF:-1 tvg-id="MusicBoxBrasil.br" tvg-name="Music BOX Brasil FHD" tvg-logo="http://p6.vc/VAI" group-title="Canais | Art & Music" tvg-shift="-3",Music BOX Brasil FHD
 http://pfsv.io:80/7125938483/5158/4
