@@ -2295,7 +2295,7 @@ http://pfsv.io:80/7125938483/5158/43777
 http://pfsv.io:80/7125938483/5158/121121
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo RPC Cascavel HD" tvg-logo="http://p6.vc/VFA" group-title="Canais | Globo" tvg-shift="-3",Globo RPC Cascavel HD
 http://pfsv.io:80/7125938483/5158/56133
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP FHD" tvg-logo="http://p6.vc/ART" group-title="Canais | Globo" tvg-shift="-3",Globo SP FHD
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo TV SP FHD" tvg-logo="http://p6.vc/ART" group-title="Canais | Globo" tvg-shift="-3",Globo TV SP FHD
 http://pfsv.io:80/7125938483/5158/354
 #EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP FHD[H265]" tvg-logo="http://p6.vc/VDL" group-title="Canais | Globo" tvg-shift="-3",Globo SP FHD[H265]
 http://pfsv.io:80/7125938483/5158/30205
