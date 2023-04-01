@@ -2331,7 +2331,7 @@ http://pfsv.io:80/7125938483/5158/396
 http://pfsv.io:80/7125938483/5158/431
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo TV Brasilia FHD" tvg-logo="http://p6.vc/VCL" group-title="Canais | Globo" tvg-shift="-3",Globo TV Brasilia FHD
 http://pfsv.io:80/7125938483/5158/360
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo TV Brasilia FHD[H265]" tvg-logo="http://p6.vc/VFN" group-title="Canais | Globo" tvg-shift="-3",Globo TV Brasilia FHD[H265]
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo TV Brasilia FHD [H265]" tvg-logo="http://p6.vc/VFN" group-title="Canais | Globo" tvg-shift="-3",Globo TV Brasilia FHD [H265]
 http://pfsv.io:80/7125938483/5158/68951
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo TV Brasilia HD" tvg-logo="http://p6.vc/ASS" group-title="Canais | Globo" tvg-shift="-3",Globo TV Brasilia HD
 http://pfsv.io:80/7125938483/5158/385
@@ -2561,9 +2561,9 @@ http://pfsv.io:80/7125938483/5158/69091
 http://pfsv.io:80/7125938483/5158/69090
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Tv Tem Bauru SD" tvg-logo="http://p6.vc/AUW" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Tem Bauru SD
 http://pfsv.io:80/7125938483/5158/454
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV TEM ITAPE FHD" tvg-logo="http://p6.vc/VFO" group-title="Canais | Globo" tvg-shift="-3",Globo TV TEM ITAPE FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Tem Itapetininga FHD" tvg-logo="http://p6.vc/VFO" group-title="Canais | Globo" tvg-shift="-3",Globo TV Tem Itapetininga FHD
 http://pfsv.io:80/7125938483/5158/69088
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV TEM ITAPE HD" tvg-logo="http://p6.vc/VFP" group-title="Canais | Globo" tvg-shift="-3",Globo TV TEM ITAPE HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Tem Itapetininga HD" tvg-logo="http://p6.vc/VFP" group-title="Canais | Globo" tvg-shift="-3",Globo TV Tem Itapetininga HD
 http://pfsv.io:80/7125938483/5158/69089
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV TEM Itapetininga FHD" tvg-logo="http://p6.vc/VGI" group-title="Canais | Globo" tvg-shift="-3",Globo TV TEM Itapetininga FHD
 http://pfsv.io:80/7125938483/5158/122753
