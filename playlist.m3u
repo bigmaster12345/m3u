@@ -4623,8 +4623,6 @@ http://pfsv.io:80/7125938483/5158/97800
 http://pfsv.io:80/7125938483/5158/97824
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[AR] America TV HD" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[AR] America TV HD
 http://pfsv.io:80/7125938483/5158/127316
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[AR] Hola TV HD" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[AR] Hola TV HD
-http://pfsv.io:80/7125938483/5158/127318
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[AR] Telefe HD" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[AR] Telefe HD
 http://pfsv.io:80/7125938483/5158/127320
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CA] 5AAB TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[CA] 5AAB TV
@@ -4645,10 +4643,6 @@ http://pfsv.io:80/7125938483/5158/97841
 http://pfsv.io:80/7125938483/5158/97828
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] Canal 33 Madrid" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] Canal 33 Madrid
 http://pfsv.io:80/7125938483/5158/97818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] Canal 4 Mancha Centro" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] Canal 4 Mancha Centro
-http://pfsv.io:80/7125938483/5158/97829
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] Canal D" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] Canal D
-http://pfsv.io:80/7125938483/5158/97823
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] CBSN Minnesota" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] CBSN Minnesota
 http://pfsv.io:80/7125938483/5158/97846
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] Galicia TV América" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] Galicia TV América
@@ -4701,20 +4695,12 @@ http://pfsv.io:80/7125938483/5158/97975
 http://pfsv.io:80/7125938483/5158/97906
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Fashion TV Paris" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Fashion TV Paris
 http://pfsv.io:80/7125938483/5158/97909
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Fashion TV PG13" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Fashion TV PG13
-http://pfsv.io:80/7125938483/5158/97914
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Francophonie" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Francophonie
 http://pfsv.io:80/7125938483/5158/97915
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Grand Lille TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Grand Lille TV
-http://pfsv.io:80/7125938483/5158/97924
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Persiana Cinema" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Persiana Cinema
-http://pfsv.io:80/7125938483/5158/97922
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Persiana Comedy" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Persiana Comedy
 http://pfsv.io:80/7125938483/5158/97910
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Persiana Family" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Persiana Family
 http://pfsv.io:80/7125938483/5158/97908
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Primocanale Liguria" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Primocanale Liguria
-http://pfsv.io:80/7125938483/5158/97917
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] TV3V" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] TV3V
 http://pfsv.io:80/7125938483/5158/97918
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] TV7 Colmar" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] TV7 Colmar
@@ -4749,16 +4735,12 @@ http://pfsv.io:80/7125938483/5158/97956
 http://pfsv.io:80/7125938483/5158/97939
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Rai 3" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Rai 3
 http://pfsv.io:80/7125938483/5158/97930
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Rai News 24" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Rai News 24
-http://pfsv.io:80/7125938483/5158/97925
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] RDS Social TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] RDS Social TV
 http://pfsv.io:80/7125938483/5158/97973
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] ReggioTV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] ReggioTV
 http://pfsv.io:80/7125938483/5158/97951
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Reteveneta" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Reteveneta
 http://pfsv.io:80/7125938483/5158/97968
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] RMK TV Sciacca" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] RMK TV Sciacca
-http://pfsv.io:80/7125938483/5158/97957
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] RTC Telecalabria" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] RTC Telecalabria
 http://pfsv.io:80/7125938483/5158/97945
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] RTP" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] RTP
@@ -4777,8 +4759,6 @@ http://pfsv.io:80/7125938483/5158/97940
 http://pfsv.io:80/7125938483/5158/97950
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] TV2000" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] TV2000
 http://pfsv.io:80/7125938483/5158/97977
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] TV7 - Azzurra TV il13" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] TV7 - Azzurra TV il13
-http://pfsv.io:80/7125938483/5158/97955
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] TVRS" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] TVRS
 http://pfsv.io:80/7125938483/5158/97946
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Vera TV Marche" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Vera TV Marche
@@ -4789,8 +4769,6 @@ http://pfsv.io:80/7125938483/5158/97928
 http://pfsv.io:80/7125938483/5158/97926
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Videolina (Sardegna)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Videolina (Sardegna)
 http://pfsv.io:80/7125938483/5158/97961
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[JP] New Japan Pro Wrestling World" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[JP] New Japan Pro Wrestling World
-http://pfsv.io:80/7125938483/5158/97878
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[JP] NHK World Japan live" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[JP] NHK World Japan live
 http://pfsv.io:80/7125938483/5158/97979
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] ON FM Portugal" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[PT] ON FM Portugal
@@ -4805,8 +4783,6 @@ http://pfsv.io:80/7125938483/5158/97893
 http://pfsv.io:80/7125938483/5158/97870
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] ABC 7 Sarasota FL (WWSB)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] ABC 7 Sarasota FL (WWSB)
 http://pfsv.io:80/7125938483/5158/97884
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] AKC TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] AKC TV
-http://pfsv.io:80/7125938483/5158/97895
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] American Horrors" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] American Horrors
 http://pfsv.io:80/7125938483/5158/97880
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] AMG TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] AMG TV
@@ -4823,10 +4799,6 @@ http://pfsv.io:80/7125938483/5158/97887
 http://pfsv.io:80/7125938483/5158/97885
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Beto TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Beto TV
 http://pfsv.io:80/7125938483/5158/97899
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] BlazeTV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] BlazeTV
-http://pfsv.io:80/7125938483/5158/97862
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] BUTV10 (Boston University)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] BUTV10 (Boston University)
-http://pfsv.io:80/7125938483/5158/97901
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CBS News Boston" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] CBS News Boston
 http://pfsv.io:80/7125938483/5158/97883
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CBS News Los Angeles" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] CBS News Los Angeles
@@ -4839,8 +4811,6 @@ http://pfsv.io:80/7125938483/5158/97888
 http://pfsv.io:80/7125938483/5158/97903
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CMC-USA" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] CMC-USA
 http://pfsv.io:80/7125938483/5158/97877
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] ET Live" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] ET Live
-http://pfsv.io:80/7125938483/5158/97861
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fail Army" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Fail Army
 http://pfsv.io:80/7125938483/5158/97863
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fashion TV Czech & Slovak" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Fashion TV Czech & Slovak
@@ -4863,8 +4833,6 @@ http://pfsv.io:80/7125938483/5158/97904
 http://pfsv.io:80/7125938483/5158/97892
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Red Bull TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Red Bull TV
 http://pfsv.io:80/7125938483/5158/97843
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] STIRR Space 1999" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] STIRR Space 1999
-http://pfsv.io:80/7125938483/5158/97900
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] The Tennis Channel" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] The Tennis Channel
 http://pfsv.io:80/7125938483/5158/97865
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ARG] FOX SPORTS 2 HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ARG] FOX SPORTS 2 HD
