@@ -181,6 +181,14 @@ http://pfsv.io:80/7125938483/5158/134639
 http://pfsv.io:80/7125938483/5158/134640
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luta Exclusivas" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Luta Exclusivas
 http://pfsv.io:80/7125938483/5158/139221
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount 1 [SD][ALTER]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Paramount 1 [SD][ALTER]
+http://pfsv.io:80/7125938483/5158/140508
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount 2 [SD][ALTER]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Paramount 2 [SD][ALTER]
+http://pfsv.io:80/7125938483/5158/140509
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount 3 [SD][ALTER]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Paramount 3 [SD][ALTER]
+http://pfsv.io:80/7125938483/5158/140510
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount 4 [SD][ALTER]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Paramount 4 [SD][ALTER]
+http://pfsv.io:80/7125938483/5158/140511
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD" tvg-logo="http://p6.vc/APQ" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD
 http://pfsv.io:80/7125938483/5158/293
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD [H265]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD [H265]
