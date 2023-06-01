@@ -383,7 +383,7 @@ http://pfsv.io:80/7125938483/5158/319
 http://pfsv.io:80/7125938483/5158/345
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CA] Adult Swim" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[CA] Adult Swim
 http://pfsv.io:80/7125938483/5158/130925
-#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="[PT] Cine Mundo HD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] Cine Mundo HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] Cine Mundo HD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] Cine Mundo HD
 http://pfsv.io:80/7125938483/5158/108422
 #EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="[PT] Fox Comedy FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] Fox Comedy FHD
 http://pfsv.io:80/7125938483/5158/101316
@@ -553,7 +553,7 @@ http://pfsv.io:80/7125938483/5158/114
 http://pfsv.io:80/7125938483/5158/123
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MX] AZTECA 7 HD" tvg-logo="http://p6.vc/VMS" group-title="Canais | Variedades" tvg-shift="-3",[MX] AZTECA 7 HD
 http://pfsv.io:80/7125938483/5158/109981
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="[PT] Canal 11 FHD" tvg-logo="http://p6.vc/VMR" group-title="Canais | Variedades" tvg-shift="-3",[PT] Canal 11 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] Canal 11 FHD" tvg-logo="http://p6.vc/VMR" group-title="Canais | Variedades" tvg-shift="-3",[PT] Canal 11 FHD
 http://pfsv.io:80/7125938483/5158/109518
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="[PT] Porto Canal FHD" tvg-logo="http://p6.vc/VMP" group-title="Canais | Variedades" tvg-shift="-3",[PT] Porto Canal FHD
 http://pfsv.io:80/7125938483/5158/101322
@@ -1913,7 +1913,7 @@ http://pfsv.io:80/7125938483/5158/116451
 http://pfsv.io:80/7125938483/5158/116447
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] Filmbox Arthouse" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[PT] Filmbox Arthouse
 http://pfsv.io:80/7125938483/5158/122802
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="[PT] TVI Ficção" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[PT] TVI Ficção
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] TVI Ficção" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[PT] TVI Ficção
 http://pfsv.io:80/7125938483/5158/122807
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RO] Film Cafe" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[RO] Film Cafe
 http://pfsv.io:80/7125938483/5158/122799
@@ -2673,7 +2673,7 @@ http://pfsv.io:80/7125938483/5158/119638
 http://pfsv.io:80/7125938483/5158/119641
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Sky Sport NBA" tvg-logo="" group-title="Canais | NBA" tvg-shift="-3",[IT] Sky Sport NBA
 http://pfsv.io:80/7125938483/5158/119642
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="[PT] NBA TV HD" tvg-logo="http://p6.vc/VPQ" group-title="Canais | NBA" tvg-shift="-3",[PT] NBA TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] NBA TV HD" tvg-logo="http://p6.vc/VPQ" group-title="Canais | NBA" tvg-shift="-3",[PT] NBA TV HD
 http://pfsv.io:80/7125938483/5158/119639
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="[PT] SporTV NBA FHD" tvg-logo="" group-title="Canais | NBA" tvg-shift="-3",[PT] SporTV NBA FHD
 http://pfsv.io:80/7125938483/5158/119640
@@ -2797,7 +2797,7 @@ http://pfsv.io:80/7125938483/5158/65151
 http://pfsv.io:80/7125938483/5158/65154
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="[PT] SporTV 3 FHD" tvg-logo="http://p6.vc/WIA" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV 3 FHD
 http://pfsv.io:80/7125938483/5158/65155
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="[PT] SporTV 5 FHD" tvg-logo="http://p6.vc/5" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV 5 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] SporTV 5 FHD" tvg-logo="http://p6.vc/5" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV 5 FHD
 http://pfsv.io:80/7125938483/5158/65240
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="[PT] SporTV FHD" tvg-logo="http://p6.vc/WHY" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV FHD
 http://pfsv.io:80/7125938483/5158/65153
@@ -3241,9 +3241,9 @@ http://pfsv.io:80/7125938483/5158/131013
 http://pfsv.io:80/7125938483/5158/131014
 #EXTINF:-1 tvg-id="EEurope.us" tvg-name="[PT] E! HD" tvg-logo="http://p6.vc/VRF" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[PT] E! HD
 http://pfsv.io:80/7125938483/5158/58169
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="[PT] EUROSPORT 1 FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[PT] EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] EUROSPORT 1 FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[PT] EUROSPORT 1 FHD
 http://pfsv.io:80/7125938483/5158/108392
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[PT] EUROSPORT 2 HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[PT] EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] EUROSPORT 2 HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[PT] EUROSPORT 2 HD
 http://pfsv.io:80/7125938483/5158/108393
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="[PT] Sporting TV HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[PT] Sporting TV HD
 http://pfsv.io:80/7125938483/5158/58182
