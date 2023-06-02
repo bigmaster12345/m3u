@@ -2797,7 +2797,7 @@ http://pfsv.io:80/7125938483/5158/65151
 http://pfsv.io:80/7125938483/5158/65154
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="[PT] SporTV 3 FHD" tvg-logo="http://p6.vc/WIA" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV 3 FHD
 http://pfsv.io:80/7125938483/5158/65155
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] SporTV 5 FHD" tvg-logo="http://p6.vc/5" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV 5 FHD
+#EXTINF:-1 tvg-id="SPORT.TV5.pt" tvg-name="[PT] SporTV 5 FHD" tvg-logo="http://p6.vc/5" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV 5 FHD
 http://pfsv.io:80/7125938483/5158/65240
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="[PT] SporTV FHD" tvg-logo="http://p6.vc/WHY" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV FHD
 http://pfsv.io:80/7125938483/5158/65153
