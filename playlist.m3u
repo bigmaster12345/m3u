@@ -161,34 +161,6 @@ http://pfsv.io:80/7125938483/5158/69077
 http://pfsv.io:80/7125938483/5158/69078
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WATCH ESPN" tvg-logo="http://p6.vc/ZNK" group-title="Canais | Jogos & Eventos" tvg-shift="-3",WATCH ESPN
 http://pfsv.io:80/7125938483/5158/33376
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Casimito Brasileirao SD" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Live Casimito Brasileirao SD
-http://pfsv.io:80/7125938483/5158/55346
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 1 FHD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 1 FHD
-http://pfsv.io:80/7125938483/5158/132265
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 1 FHD [H265]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 1 FHD [H265]
-http://pfsv.io:80/7125938483/5158/132263
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 1 FHDR" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 1 FHDR
-http://pfsv.io:80/7125938483/5158/132264
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 2 FHD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 2 FHD
-http://pfsv.io:80/7125938483/5158/132262
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 2 FHD [H265]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 2 FHD [H265]
-http://pfsv.io:80/7125938483/5158/132260
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 2 FHDR" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 2 FHDR
-http://pfsv.io:80/7125938483/5158/132261
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 3 FHD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 3 FHD
-http://pfsv.io:80/7125938483/5158/132259
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 3 FHD [H265]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 3 FHD [H265]
-http://pfsv.io:80/7125938483/5158/132257
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 3 FHDR" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 3 FHDR
-http://pfsv.io:80/7125938483/5158/132258
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 4 FHD" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 4 FHD
-http://pfsv.io:80/7125938483/5158/132256
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 4 FHD [H265]" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 4 FHD [H265]
-http://pfsv.io:80/7125938483/5158/132254
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 4 FHDR" tvg-logo="" group-title="Canais | Jogos & Eventos" tvg-shift="-3",Nosso Futebol 4 FHDR
-http://pfsv.io:80/7125938483/5158/132255
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneFootball 1 FHD" tvg-logo="http://p6.vc/XWW" group-title="Canais | Jogos & Eventos" tvg-shift="-3",OneFootball 1 FHD
-http://pfsv.io:80/7125938483/5158/133537
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Grande Conquista 1 FHD" tvg-logo="" group-title="Canais | A Grande Conquista" tvg-shift="-3",A Grande Conquista 1 FHD
 http://pfsv.io:80/7125938483/5158/140755
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Grande Conquista 2 FHD" tvg-logo="" group-title="Canais | A Grande Conquista" tvg-shift="-3",A Grande Conquista 2 FHD
@@ -383,74 +355,6 @@ http://pfsv.io:80/7125938483/5158/319
 http://pfsv.io:80/7125938483/5158/345
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CA] Adult Swim" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[CA] Adult Swim
 http://pfsv.io:80/7125938483/5158/130925
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] Cine Mundo HD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] Cine Mundo HD
-http://pfsv.io:80/7125938483/5158/108422
-#EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="[PT] Fox Comedy FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] Fox Comedy FHD
-http://pfsv.io:80/7125938483/5158/101316
-#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="[PT] Fox Crime FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] Fox Crime FHD
-http://pfsv.io:80/7125938483/5158/101317
-#EXTINF:-1 tvg-id="CanalHollywoodPortugal.pt" tvg-name="[PT] Hollywood FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] Hollywood FHD
-http://pfsv.io:80/7125938483/5158/101314
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] Nos Studios FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] Nos Studios FHD
-http://pfsv.io:80/7125938483/5158/101315
-#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="[PT] TVCine Action FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] TVCine Action FHD
-http://pfsv.io:80/7125938483/5158/101334
-#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="[PT] TVCine Edition FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] TVCine Edition FHD
-http://pfsv.io:80/7125938483/5158/101335
-#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="[PT] TVCine Emotion FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] TVCine Emotion FHD
-http://pfsv.io:80/7125938483/5158/101336
-#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="[PT] TVCine Top" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[PT] TVCine Top
-http://pfsv.io:80/7125938483/5158/101337
-#EXTINF:-1 tvg-id="MoviePlexEast.us" tvg-name="[US] MoviePlex FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[US] MoviePlex FHD
-http://pfsv.io:80/7125938483/5158/109521
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD [HDR]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130184
-#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD [HDR]" tvg-logo="http://p6.vc/WGS" group-title="Canais | Filmes e Séries" tvg-shift="-3",AMC FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130185
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD [HDR]" tvg-logo="http://p6.vc/WGX" group-title="Canais | Filmes e Séries" tvg-shift="-3",AXN FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130186
-#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal FHD" tvg-logo="http://p6.vc/XTJ" group-title="Canais | Filmes e Séries" tvg-shift="-3",Cinecanal FHD
-http://pfsv.io:80/7125938483/5158/132944
-#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal FHD [H265]" tvg-logo="http://p6.vc/XTM" group-title="Canais | Filmes e Séries" tvg-shift="-3",Cinecanal FHD [H265]
-http://pfsv.io:80/7125938483/5158/132947
-#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal FHD [HDR]" tvg-logo="http://p6.vc/XTK" group-title="Canais | Filmes e Séries" tvg-shift="-3",Cinecanal FHD [HDR]
-http://pfsv.io:80/7125938483/5158/132945
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD [HDR]" tvg-logo="http://p6.vc/AQV" group-title="Canais | Filmes e Séries" tvg-shift="-3",Cinemax FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130188
-#EXTINF:-1 tvg-id="BR - Film & Arts" tvg-name="Film&Arts FHD" tvg-logo="http://p6.vc/WKJ" group-title="Canais | Filmes e Séries" tvg-shift="-3",Film&Arts FHD
-http://pfsv.io:80/7125938483/5158/134867
-#EXTINF:-1 tvg-id="FilmandArts.br" tvg-name="Film&Arts FHD [HDR]" tvg-logo="http://p6.vc/WKJ" group-title="Canais | Filmes e Séries" tvg-shift="-3",Film&Arts FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130189
-#EXTINF:-1 tvg-id="FX.br" tvg-name="FX FHD [HDR]" tvg-logo="http://p6.vc/WIH" group-title="Canais | Filmes e Séries" tvg-shift="-3",FX FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130190
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Life time FHD [HDR]" tvg-logo="http://p6.vc/ARB" group-title="Canais | Filmes e Séries" tvg-shift="-3",Life time FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130191
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD [HDR]" tvg-logo="http://p6.vc/WIL" group-title="Canais | Filmes e Séries" tvg-shift="-3",Megapix FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130192
-#EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Network FHD [HDR]" tvg-logo="http://p6.vc/APS" group-title="Canais | Filmes e Séries" tvg-shift="-3",Paramount Network FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130193
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel FHD [HDR]" tvg-logo="http://p6.vc/WJN" group-title="Canais | Filmes e Séries" tvg-shift="-3",Sony Channel FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130187
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD [HDR]" tvg-logo="http://p6.vc/WIN" group-title="Canais | Filmes e Séries" tvg-shift="-3",Space FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130194
-#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel FHD [HDR]" tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries" tvg-shift="-3",Star Channel FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130195
-#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Studio Universal FHD [HDR]" tvg-logo="http://p6.vc/ARM" group-title="Canais | Filmes e Séries" tvg-shift="-3",Studio Universal FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130196
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD [HDR]" tvg-logo="http://p6.vc/WHE" group-title="Canais | Filmes e Séries" tvg-shift="-3",SYFY FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130197
-#EXTINF:-1 tvg-id="TBS.br" tvg-name="TBS FHD [HDR]" tvg-logo="http://p6.vc/WHF" group-title="Canais | Filmes e Séries" tvg-shift="-3",TBS FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130198
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC FHD [HDR]" tvg-logo="http://p6.vc/WHK" group-title="Canais | Filmes e Séries" tvg-shift="-3",TLC FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130199
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT FHD [HDR]" tvg-logo="http://p6.vc/WIG" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130200
-#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series FHD [HDR]" tvg-logo="http://p6.vc/WIQ" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Series FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130201
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel FHD [HDR]" tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries" tvg-shift="-3",Universal Channel FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130202
-#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel FHD [HDR]" tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries" tvg-shift="-3",Warner Channel FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130203
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://p6.vc/VRH" group-title="Canais | Variedades" tvg-shift="-3",AgroMais FHD
 http://pfsv.io:80/7125938483/5158/109512
 #EXTINF:-1 tvg-id="Chef.TV.HD.br" tvg-name="Chef TV HD" tvg-logo="http://p6.vc/VRG" group-title="Canais | Variedades" tvg-shift="-3",Chef TV HD
@@ -551,40 +455,6 @@ http://pfsv.io:80/7125938483/5158/105
 http://pfsv.io:80/7125938483/5158/114
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva SD" tvg-logo="http://p6.vc/AJM" group-title="Canais | Variedades" tvg-shift="-3",Viva SD
 http://pfsv.io:80/7125938483/5158/123
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MX] AZTECA 7 HD" tvg-logo="http://p6.vc/VMS" group-title="Canais | Variedades" tvg-shift="-3",[MX] AZTECA 7 HD
-http://pfsv.io:80/7125938483/5158/109981
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] Canal 11 FHD" tvg-logo="http://p6.vc/VMR" group-title="Canais | Variedades" tvg-shift="-3",[PT] Canal 11 FHD
-http://pfsv.io:80/7125938483/5158/109518
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="[PT] Porto Canal FHD" tvg-logo="http://p6.vc/VMP" group-title="Canais | Variedades" tvg-shift="-3",[PT] Porto Canal FHD
-http://pfsv.io:80/7125938483/5158/101322
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="[PT] TVI FHD" tvg-logo="http://p6.vc/VMQ" group-title="Canais | Variedades" tvg-shift="-3",[PT] TVI FHD
-http://pfsv.io:80/7125938483/5158/101324
-#EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS FHD [HDR]" tvg-logo="http://p6.vc/ONR" group-title="Canais | Variedades" tvg-shift="-3",BIS FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130251
-#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil FHD [HDR]" tvg-logo="http://p6.vc/WHL" group-title="Canais | Variedades" tvg-shift="-3",Canal Brasil FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130252
-#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR FHD [HDR]" tvg-logo="LOGO" group-title="Canais | Variedades" tvg-shift="-3",Canal FDR FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130253
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central FHD [HDR]" tvg-logo="http://p6.vc/VRA" group-title="Canais | Variedades" tvg-shift="-3",Comedy Central FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130254
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD [HDR]" tvg-logo="http://p6.vc/VRB" group-title="Canais | Variedades" tvg-shift="-3",Curta! FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130255
-#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DOG TV FHD [HDR]" tvg-logo="http://p6.vc/VRD" group-title="Canais | Variedades" tvg-shift="-3",DOG TV FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130256
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD [HDR]" tvg-logo="http://p6.vc/AIX" group-title="Canais | Variedades" tvg-shift="-3",E! FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130257
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV FHD [HDR]" tvg-logo="http://p6.vc/AIR" group-title="Canais | Variedades" tvg-shift="-3",Fish TV FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130258
-#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network FHD [HDR]" tvg-logo="http://p6.vc/VMY" group-title="Canais | Variedades" tvg-shift="-3",Food Network FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130259
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT FHD [HDR]" tvg-logo="http://p6.vc/VMX" group-title="Canais | Variedades" tvg-shift="-3",GNT FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130260
-#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" tvg-name="Prime Box Brasil FHD [HDR]" tvg-logo="http://p6.vc/AJC" group-title="Canais | Variedades" tvg-shift="-3",Prime Box Brasil FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130261
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil FHD [HDR]" tvg-logo="http://p6.vc/VMN" group-title="Canais | Variedades" tvg-shift="-3",Travel Box Brazil FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130262
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva FHD [HDR]" tvg-logo="http://p6.vc/VMF" group-title="Canais | Variedades" tvg-shift="-3",Viva FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130263
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://p6.vc/AKY" group-title="Canais | Documentários" tvg-shift="-3",Animal Planet FHD
 http://pfsv.io:80/7125938483/5158/164
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD [H265]" tvg-logo="http://p6.vc/WHO" group-title="Canais | Documentários" tvg-shift="-3",Animal Planet FHD [H265]
@@ -689,44 +559,6 @@ http://pfsv.io:80/7125938483/5158/176
 http://pfsv.io:80/7125938483/5158/191
 #EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic SD" tvg-logo="http://p6.vc/AML" group-title="Canais | Documentários" tvg-shift="-3",National Geographic SD
 http://pfsv.io:80/7125938483/5158/206
-#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="[PT] Crime+ Investigation HD" tvg-logo="" group-title="Canais | Documentários" tvg-shift="-3",[PT] Crime+ Investigation HD
-http://pfsv.io:80/7125938483/5158/101319
-#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="[PT] Odisseia FHD" tvg-logo="" group-title="Canais | Documentários" tvg-shift="-3",[PT] Odisseia FHD
-http://pfsv.io:80/7125938483/5158/101320
-#EXTINF:-1 tvg-id="CrimePlusInvestigation.us" tvg-name="[US] Crime+ Investigation Network USA HD" tvg-logo="" group-title="Canais | Documentários" tvg-shift="-3",[US] Crime+ Investigation Network USA HD
-http://pfsv.io:80/7125938483/5158/108427
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="[US] Destination America FHD" tvg-logo="" group-title="Canais | Documentários" tvg-shift="-3",[US] Destination America FHD
-http://pfsv.io:80/7125938483/5158/109515
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Discovery Velocity HD" tvg-logo="" group-title="Canais | Documentários" tvg-shift="-3",[US] Discovery Velocity HD
-http://pfsv.io:80/7125938483/5158/109516
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-name="[US] Smithsonian Channel" tvg-logo="http://p6.vc/ALZ" group-title="Canais | Documentários" tvg-shift="-3",[US] Smithsonian Channel
-http://pfsv.io:80/7125938483/5158/193
-#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD [HDR]" tvg-logo="http://p6.vc/WHO" group-title="Canais | Documentários" tvg-shift="-3",Animal Planet FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130161
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD [HDR]" tvg-logo="http://p6.vc/AKZ" group-title="Canais | Documentários" tvg-shift="-3",Arte 1 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130169
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel FHD [HDR]" tvg-logo="http://p6.vc/WJX" group-title="Canais | Documentários" tvg-shift="-3",Discovery Channel FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130163
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery Home & Health FHD [HDR]" tvg-logo="http://p6.vc/AMD" group-title="Canais | Documentários" tvg-shift="-3",Discovery Home & Health FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130162
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD [HDR]" tvg-logo="http://p6.vc/WJU" group-title="Canais | Documentários" tvg-shift="-3",Discovery Science FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130164
-#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater FHD [HDR]" tvg-logo="http://p6.vc/WHR" group-title="Canais | Documentários" tvg-shift="-3",Discovery Theater FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130165
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo FHD [HDR]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários" tvg-shift="-3",Discovery Turbo FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130166
-#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World FHD [HDR]" tvg-logo="http://p6.vc/VYW" group-title="Canais | Documentários" tvg-shift="-3",Discovery World FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130167
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV FHD [HDR]" tvg-logo="http://p6.vc/WJT" group-title="Canais | Documentários" tvg-shift="-3",HGTV FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130168
-#EXTINF:-1 tvg-id="History2.br" tvg-name="History Channel 2 FHD [HDR]" tvg-logo="http://p6.vc/WJY" group-title="Canais | Documentários" tvg-shift="-3",History Channel 2 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130170
-#EXTINF:-1 tvg-id="History.br" tvg-name="History Channel FHD [HDR]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários" tvg-shift="-3",History Channel FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130171
-#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="Investigacao Discovery FHD [HDR]" tvg-logo="http://p6.vc/WJW" group-title="Canais | Documentários" tvg-shift="-3",Investigacao Discovery FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130172
-#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic FHD [HDR]" tvg-logo="http://p6.vc/ALJ" group-title="Canais | Documentários" tvg-shift="-3",National Geographic FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130173
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet [4K]" tvg-logo="http://p6.vc/bb" group-title="Canais | 4K" tvg-shift="-3",Animal Planet [4K]
 http://pfsv.io:80/7125938483/5158/588
 #EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN [4K]" tvg-logo="http://p6.vc/H" group-title="Canais | 4K" tvg-shift="-3",AXN [4K]
@@ -799,10 +631,6 @@ http://pfsv.io:80/7125938483/5158/601
 http://pfsv.io:80/7125938483/5158/65247
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA [4K]" tvg-logo="http://p6.vc/VMM" group-title="Canais | 4K" tvg-shift="-3",VIVA [4K]
 http://pfsv.io:80/7125938483/5158/50867
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Bloomberg TV 4K" tvg-logo="" group-title="Canais | 4K" tvg-shift="-3",[IT] Bloomberg TV 4K
-http://pfsv.io:80/7125938483/5158/116360
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi 4K" tvg-logo="" group-title="Canais | 4K" tvg-shift="-3",Digi 4K
-http://pfsv.io:80/7125938483/5158/130232
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Athletico Furacao TV" tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Athletico Furacao TV
 http://pfsv.io:80/7125938483/5158/116350
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Athletico Furacao TV HD [ALTER2]" tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Athletico Furacao TV HD [ALTER2]
@@ -1027,40 +855,6 @@ http://pfsv.io:80/7125938483/5158/133539
 http://pfsv.io:80/7125938483/5158/133538
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Coxa HD (Coritiba FC)" tvg-logo="http://p6.vc/VCF" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",TV Coxa HD (Coritiba FC)
 http://pfsv.io:80/7125938483/5158/66718
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Athletico Furacao TV FHD [ALTER2]" tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Athletico Furacao TV FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132250
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brasileirao Serie C 1 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Brasileirao Serie C 1 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132307
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brasileirao Serie C 2 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Brasileirao Serie C 2 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132308
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brasileirao Serie C 3 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Brasileirao Serie C 3 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132309
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Campeonato Paraibano 1 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Campeonato Paraibano 1 FHD
-http://pfsv.io:80/7125938483/5158/132268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Campeonato Paraibano 2 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Campeonato Paraibano 2 FHD
-http://pfsv.io:80/7125938483/5158/132267
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Campeonato Paraibano 3 FHD" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Campeonato Paraibano 3 FHD
-http://pfsv.io:80/7125938483/5158/132266
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Catarinense 1 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Catarinense 1 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132284
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Catarinense 2 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Catarinense 2 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132285
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Catarinense 3 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Catarinense 3 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132286
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Catarinense 4 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Catarinense 4 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132287
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Copa Nordeste 03 FHD [ALTER2]" tvg-logo="http://p6.vc/TUE" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Copa Nordeste 03 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132247
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paranaense 1 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Paranaense 1 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132298
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paranaense 2 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Paranaense 2 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132299
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paranaense 3 FHD [ALTER2]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Paranaense 3 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/132300
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paulistao 01 FHD [ALTER]" tvg-logo="" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Paulistao 01 FHD [ALTER]
-http://pfsv.io:80/7125938483/5158/132348
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sergipano 1 FHD [ALTER2]" tvg-logo="http://p6.vc/XXF" group-title="Canais | Campeonatos Estaduais" tvg-shift="-3",Sergipano 1 FHD [ALTER2]
-http://pfsv.io:80/7125938483/5158/133546
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN FHD LEG" tvg-logo="http://p6.vc/WID" group-title="Canais | Legendados" tvg-shift="-3",AXN FHD LEG
 http://pfsv.io:80/7125938483/5158/122939
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN HD LEG" tvg-logo="http://p6.vc/WIB" group-title="Canais | Legendados" tvg-shift="-3",AXN HD LEG
@@ -1173,10 +967,6 @@ http://pfsv.io:80/7125938483/5158/123515
 http://pfsv.io:80/7125938483/5158/123516
 #EXTINF:-1 tvg-id="BR - Warner Channel" tvg-name="Warner SD LEG" tvg-logo="http://p6.vc/eLq" group-title="Canais | Legendados" tvg-shift="-3",Warner SD LEG
 http://pfsv.io:80/7125938483/5158/123517
-#EXTINF:-1 tvg-id="BR - FX" tvg-name="FX FHD LEG" tvg-logo="http://p6.vc/WIH" group-title="Canais | Legendados" tvg-shift="-3",FX FHD LEG
-http://pfsv.io:80/7125938483/5158/130686
-#EXTINF:-1 tvg-id="BR - Sony" tvg-name="Sony Channel FHD LEG" tvg-logo="http://p6.vc/eLa" group-title="Canais | Legendados" tvg-shift="-3",Sony Channel FHD LEG
-http://pfsv.io:80/7125938483/5158/130685
 #EXTINF:-1 tvg-id="BABYTV.br" tvg-name="Baby TV SD" tvg-logo="http://p6.vc/AKK" group-title="Canais | Infantis" tvg-shift="-3",Baby TV SD
 http://pfsv.io:80/7125938483/5158/149
 #EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://p6.vc/AJP" group-title="Canais | Infantis" tvg-shift="-3",Cartoon Network FHD
@@ -1267,26 +1057,6 @@ http://pfsv.io:80/7125938483/5158/108988
 http://pfsv.io:80/7125938483/5158/108987
 #EXTINF:-1 tvg-id="BR - Zoomoo" tvg-name="ZooMoo SD" tvg-logo="http://p6.vc/WIW" group-title="Canais | Infantis" tvg-shift="-3",ZooMoo SD
 http://pfsv.io:80/7125938483/5158/163
-#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="[PT] PANDA Kids HD" tvg-logo="" group-title="Canais | Infantis" tvg-shift="-3",[PT] PANDA Kids HD
-http://pfsv.io:80/7125938483/5158/137
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network FHD [HDR]" tvg-logo="http://p6.vc/WHT" group-title="Canais | Infantis" tvg-shift="-3",Cartoon Network FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130213
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD [HDR]" tvg-logo="http://p6.vc/WJB" group-title="Canais | Infantis" tvg-shift="-3",Cartoonito FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130212
-#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="Discovery Kids FHD [HDR]" tvg-logo="http://p6.vc/WHU" group-title="Canais | Infantis" tvg-shift="-3",Discovery Kids FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130214
-#EXTINF:-1 tvg-id="DisneyChannel.br" tvg-name="Disney Channel FHD [HDR]" tvg-logo="http://p6.vc/WJC" group-title="Canais | Infantis" tvg-shift="-3",Disney Channel FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130215
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob FHD [HDR]" tvg-logo="http://p6.vc/AKE" group-title="Canais | Infantis" tvg-shift="-3",Gloob FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130216
-#EXTINF:-1 tvg-id="GLOOBINHO.br" tvg-name="Gloobinho FHD [HDR]" tvg-logo="http://p6.vc/WJD" group-title="Canais | Infantis" tvg-shift="-3",Gloobinho FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130217
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr FHD [HDR]" tvg-logo="http://p6.vc/AKG" group-title="Canais | Infantis" tvg-shift="-3",Nick Jr FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130219
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon FHD [HDR]" tvg-logo="http://p6.vc/WIY" group-title="Canais | Infantis" tvg-shift="-3",Nickelodeon FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130218
-#EXTINF:-1 tvg-id="BR - Zoomoo" tvg-name="Zoomoo FHD [HDR]" tvg-logo="http://p6.vc/WJI" group-title="Canais | Infantis" tvg-shift="-3",Zoomoo FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130220
 #EXTINF:-1 tvg-id="BandBahia.br" tvg-name="Band Bahia HD" tvg-logo="http://p6.vc/VVI" group-title="Canais | Abertos" tvg-shift="-3",Band Bahia HD
 http://pfsv.io:80/7125938483/5158/113586
 #EXTINF:-1 tvg-id="BandCampinas.br" tvg-name="Band Campinas HD" tvg-logo="http://p6.vc/VVJ" group-title="Canais | Abertos" tvg-shift="-3",Band Campinas HD
@@ -1487,8 +1257,6 @@ http://pfsv.io:80/7125938483/5158/72
 http://pfsv.io:80/7125938483/5158/1066
 #EXTINF:-1 tvg-id="BR - Univesp TV" tvg-name="TV Univesp SD" tvg-logo="http://p6.vc/BQN" group-title="Canais | Abertos" tvg-shift="-3",TV Univesp SD
 http://pfsv.io:80/7125938483/5158/1067
-#EXTINF:-1 tvg-id="BR - TV Jangadeiro" tvg-name="SBT TV Jangadeiro FHD" tvg-logo="http://p6.vc/VCB" group-title="Canais | Abertos" tvg-shift="-3",SBT TV Jangadeiro FHD
-http://pfsv.io:80/7125938483/5158/134101
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Internacional" tvg-logo="http://p6.vc/AXD" group-title="Canais | Notícias" tvg-shift="-3",Band Internacional
 http://pfsv.io:80/7125938483/5158/518
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News FHD" tvg-logo="http://p6.vc/AWW" group-title="Canais | Notícias" tvg-shift="-3",Band News FHD
@@ -1543,40 +1311,6 @@ http://pfsv.io:80/7125938483/5158/127317
 http://pfsv.io:80/7125938483/5158/127319
 #EXTINF:-1 tvg-id="CNNEnEspanol.br" tvg-name="[ES] CNN Espanol" tvg-logo="http://p6.vc/VNM" group-title="Canais | Notícias" tvg-shift="-3",[ES] CNN Espanol
 http://pfsv.io:80/7125938483/5158/58206
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Francia 24 HD" tvg-logo="http://p6.vc/VNL" group-title="Canais | Notícias" tvg-shift="-3",[FR] Francia 24 HD
-http://pfsv.io:80/7125938483/5158/58205
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="[PT]  RTP 1 FHD" tvg-logo="http://p6.vc/VNZ" group-title="Canais | Notícias" tvg-shift="-3",[PT]  RTP 1 FHD
-http://pfsv.io:80/7125938483/5158/104933
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="[PT]  RTP 2 FHD" tvg-logo="http://p6.vc/VNY" group-title="Canais | Notícias" tvg-shift="-3",[PT]  RTP 2 FHD
-http://pfsv.io:80/7125938483/5158/104932
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="[PT]  RTP 3 HD" tvg-logo="http://p6.vc/VNV" group-title="Canais | Notícias" tvg-shift="-3",[PT]  RTP 3 HD
-http://pfsv.io:80/7125938483/5158/101326
-#EXTINF:-1 tvg-id="Euronews.br" tvg-name="[PT] euronews HD" tvg-logo="http://p6.vc/VNI" group-title="Canais | Notícias" tvg-shift="-3",[PT] euronews HD
-http://pfsv.io:80/7125938483/5158/58201
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="[PT] RTP Africa HD" tvg-logo="http://p6.vc/VNU" group-title="Canais | Notícias" tvg-shift="-3",[PT] RTP Africa HD
-http://pfsv.io:80/7125938483/5158/97814
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="[PT] RTP Açores HD" tvg-logo="http://p6.vc/VNW" group-title="Canais | Notícias" tvg-shift="-3",[PT] RTP Açores HD
-http://pfsv.io:80/7125938483/5158/101327
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="[PT] RTP Madeira" tvg-logo="http://p6.vc/VNT" group-title="Canais | Notícias" tvg-shift="-3",[PT] RTP Madeira
-http://pfsv.io:80/7125938483/5158/97813
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="[PT] RTP Madeira HD" tvg-logo="http://p6.vc/VNX" group-title="Canais | Notícias" tvg-shift="-3",[PT] RTP Madeira HD
-http://pfsv.io:80/7125938483/5158/101329
-#EXTINF:-1 tvg-id="BBCWorldNewsNorthAmerica.uk" tvg-name="[US] BBC WORLD FHD" tvg-logo="http://p6.vc/VNR" group-title="Canais | Notícias" tvg-shift="-3",[US] BBC WORLD FHD
-http://pfsv.io:80/7125938483/5158/59977
-#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="[US] CNBC WORLD HD" tvg-logo="http://p6.vc/VNK" group-title="Canais | Notícias" tvg-shift="-3",[US] CNBC WORLD HD
-http://pfsv.io:80/7125938483/5158/58204
-#EXTINF:-1 tvg-id="CNN.br" tvg-name="[US] CNN FHD" tvg-logo="http://p6.vc/VNJ" group-title="Canais | Notícias" tvg-shift="-3",[US] CNN FHD
-http://pfsv.io:80/7125938483/5158/58203
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="[US] FOX News HD [H265]" tvg-logo="http://p6.vc/VNN" group-title="Canais | Notícias" tvg-shift="-3",[US] FOX News HD [H265]
-http://pfsv.io:80/7125938483/5158/58208
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="[US] MSNBC News FHD" tvg-logo="http://p6.vc/VOA" group-title="Canais | Notícias" tvg-shift="-3",[US] MSNBC News FHD
-http://pfsv.io:80/7125938483/5158/109514
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News FHD [HDR]" tvg-logo="http://p6.vc/VNA" group-title="Canais | Notícias" tvg-shift="-3",Band News FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130229
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil FHD [HDR]" tvg-logo="http://p6.vc/VNG" group-title="Canais | Notícias" tvg-shift="-3",CNN Brasil FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130230
-#EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News FHD [HDR]" tvg-logo="http://p6.vc/VPE" group-title="Canais | Notícias" tvg-shift="-3",Jovem Pan News FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130231
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sport FHD" tvg-logo="http://p6.vc/ANX" group-title="Canais | Esportes" tvg-shift="-3",Band Sport FHD
 http://pfsv.io:80/7125938483/5158/247
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD[H265]" tvg-logo="http://p6.vc/VSW" group-title="Canais | Esportes" tvg-shift="-3",Band Sports FHD[H265]
@@ -1683,26 +1417,6 @@ http://pfsv.io:80/7125938483/5158/132343
 http://pfsv.io:80/7125938483/5158/132344
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight PASS [ALTER]" tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight PASS [ALTER]
 http://pfsv.io:80/7125938483/5158/133524
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD [HDR]" tvg-logo="http://p6.vc/VSW" group-title="Canais | Esportes" tvg-shift="-3",Band Sports FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130175
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD [HDR]" tvg-logo="http://p6.vc/WJZ" group-title="Canais | Esportes" tvg-shift="-3",Combate FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130176
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 FHD [HDR]" tvg-logo="http://p6.vc/WKE" group-title="Canais | Esportes" tvg-shift="-3",ESPN 2 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130177
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3 FHD [HDR]" tvg-logo="http://p6.vc/WKA" group-title="Canais | Esportes" tvg-shift="-3",ESPN 3 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130178
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4 FHD [HDR]" tvg-logo="http://p6.vc/WKG" group-title="Canais | Esportes" tvg-shift="-3",ESPN 4 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130179
-#EXTINF:-1 tvg-id="ESPNExtra.br" tvg-name="ESPN Extra FHD [HDR]" tvg-logo="http://p6.vc/WKB" group-title="Canais | Esportes" tvg-shift="-3",ESPN Extra FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130181
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN FHD [HDR]" tvg-logo="http://p6.vc/AOS" group-title="Canais | Esportes" tvg-shift="-3",ESPN FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130180
-#EXTINF:-1 tvg-id="BR - FOX Sports 2" tvg-name="FOX Sports 2 FHD [HDR]" tvg-logo="http://p6.vc/AOV" group-title="Canais | Esportes" tvg-shift="-3",FOX Sports 2 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130182
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD [HDR]" tvg-logo="http://p6.vc/WKC" group-title="Canais | Esportes" tvg-shift="-3",OFF FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130183
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass FHD" tvg-logo="http://p6.vc/XRJ" group-title="Canais | Esportes" tvg-shift="-3",UFC Fight Pass FHD
-http://pfsv.io:80/7125938483/5158/132342
 #EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS  FHD[H265]" tvg-logo="http://p6.vc/ONR" group-title="Canais | Art & Music" tvg-shift="-3",BIS  FHD[H265]
 http://pfsv.io:80/7125938483/5158/30177
 #EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS FHD" tvg-logo="http://p6.vc/ONP" group-title="Canais | Art & Music" tvg-shift="-3",BIS FHD
@@ -1779,22 +1493,6 @@ http://pfsv.io:80/7125938483/5158/30174
 http://pfsv.io:80/7125938483/5158/14
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WOOHOO SD" tvg-logo="http://p6.vc/AFG" group-title="Canais | Art & Music" tvg-shift="-3",WOOHOO SD
 http://pfsv.io:80/7125938483/5158/7
-#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV FHD [HDR]" tvg-logo="http://p6.vc/VAO" group-title="Canais | Art & Music" tvg-shift="-3",MTV FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130221
-#EXTINF:-1 tvg-id="MTVLive.br" tvg-name="MTV LIVE FHD [HDR]" tvg-logo="http://p6.vc/VAL" group-title="Canais | Art & Music" tvg-shift="-3",MTV LIVE FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130222
-#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTVs 00 FHD [HDR]" tvg-logo="http://p6.vc/VAS" group-title="Canais | Art & Music" tvg-shift="-3",MTVs 00 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130223
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD [HDR]" tvg-logo="http://p6.vc/AFO" group-title="Canais | Art & Music" tvg-shift="-3",Multishow FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130224
-#EXTINF:-1 tvg-id="MusicBoxBrasil.br" tvg-name="Music Box Brasil FHD [HDR]" tvg-logo="http://p6.vc/VAP" group-title="Canais | Art & Music" tvg-shift="-3",Music Box Brasil FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130225
-#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor e Arte FHD [HDR]" tvg-logo="LOGO" group-title="Canais | Art & Music" tvg-shift="-3",Sabor e Arte FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130228
-#EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="Trace Brazuca FHD [HDR]" tvg-logo="http://p6.vc/VAU" group-title="Canais | Art & Music" tvg-shift="-3",Trace Brazuca FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130226
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="Woohoo FHD [HDR]" tvg-logo="http://p6.vc/VAN" group-title="Canais | Art & Music" tvg-shift="-3",Woohoo FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130227
 #EXTINF:-1 tvg-id="BR - Canção Nova" tvg-name="Cancao Nova HD" tvg-logo="http://p6.vc/VPV" group-title="Canais | Religiosos" tvg-shift="-3",Cancao Nova HD
 http://pfsv.io:80/7125938483/5158/33379
 #EXTINF:-1 tvg-id="BR - Canção Nova" tvg-name="Cancao Nova SD" tvg-logo="http://p6.vc/AYG" group-title="Canais | Religiosos" tvg-shift="-3",Cancao Nova SD
@@ -1841,8 +1539,6 @@ http://pfsv.io:80/7125938483/5158/53286
 http://pfsv.io:80/7125938483/5158/53340
 #EXTINF:-1 tvg-id="BR - VIVA" tvg-name="VIVA FHD[H265]" tvg-logo="http://p6.vc/VMI" group-title="Canais | Religiosos" tvg-shift="-3",VIVA FHD[H265]
 http://pfsv.io:80/7125938483/5158/30298
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] ADB TV" tvg-logo="http://p6.vc/BJL" group-title="Canais | Religiosos" tvg-shift="-3",[PT] ADB TV
-http://pfsv.io:80/7125938483/5158/874
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINE SKY 01 FHD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados" tvg-shift="-3",CINE SKY 01 FHD
 http://pfsv.io:80/7125938483/5158/50858
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 01 HD" tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes Selecionados" tvg-shift="-3",Cine Sky 01 HD
@@ -1901,50 +1597,6 @@ http://pfsv.io:80/7125938483/5158/122796
 http://pfsv.io:80/7125938483/5158/122797
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[AR] Sky Flix Movies" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[AR] Sky Flix Movies
 http://pfsv.io:80/7125938483/5158/122798
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Primafila 3 FHD" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[IT] Primafila 3 FHD
-http://pfsv.io:80/7125938483/5158/116441
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Primafila 4 HD" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[IT] Primafila 4 HD
-http://pfsv.io:80/7125938483/5158/116443
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Primafila 5 FHD[H265]" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[IT] Primafila 5 FHD[H265]
-http://pfsv.io:80/7125938483/5158/116444
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Primafila 7 HD" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[IT] Primafila 7 HD
-http://pfsv.io:80/7125938483/5158/116451
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Primafila 8 FHD[H265]" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[IT] Primafila 8 FHD[H265]
-http://pfsv.io:80/7125938483/5158/116447
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] Filmbox Arthouse" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[PT] Filmbox Arthouse
-http://pfsv.io:80/7125938483/5158/122802
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] TVI Ficção" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[PT] TVI Ficção
-http://pfsv.io:80/7125938483/5158/122807
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RO] Film Cafe" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[RO] Film Cafe
-http://pfsv.io:80/7125938483/5158/122799
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RO] Film Now" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[RO] Film Now
-http://pfsv.io:80/7125938483/5158/122800
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RO] FilmBox" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[RO] FilmBox
-http://pfsv.io:80/7125938483/5158/122801
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RO] FilmBox Extra" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[RO] FilmBox Extra
-http://pfsv.io:80/7125938483/5158/122803
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RO] FilmBox Family" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[RO] FilmBox Family
-http://pfsv.io:80/7125938483/5158/122804
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RO] FilmBox Premium" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[RO] FilmBox Premium
-http://pfsv.io:80/7125938483/5158/122805
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RO] FilmBox Stars" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[RO] FilmBox Stars
-http://pfsv.io:80/7125938483/5158/122806
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Comet" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Comet
-http://pfsv.io:80/7125938483/5158/122808
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] ConTV Anime" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] ConTV Anime
-http://pfsv.io:80/7125938483/5158/122809
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Empire Cinema sci-fi" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Empire Cinema sci-fi
-http://pfsv.io:80/7125938483/5158/122810
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Epix" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Epix
-http://pfsv.io:80/7125938483/5158/122811
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Epix 2" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Epix 2
-http://pfsv.io:80/7125938483/5158/122812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Epix Drive In" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Epix Drive In
-http://pfsv.io:80/7125938483/5158/122813
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Epix Hits" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Epix Hits
-http://pfsv.io:80/7125938483/5158/122814
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Filmstream" tvg-logo="" group-title="Canais | Filmes Selecionados" tvg-shift="-3",[US] Filmstream
-http://pfsv.io:80/7125938483/5158/122815
 #EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol  TV 2 FHD [B]" tvg-logo="http://p6.vc/VKC" group-title="Canais | Conmebol" tvg-shift="-3",Conmebol  TV 2 FHD [B]
 http://pfsv.io:80/7125938483/5158/65566
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Conmebol TV 01 HD [D]" tvg-logo="http://p6.vc/VKV" group-title="Canais | Conmebol" tvg-shift="-3",Conmebol TV 01 HD [D]
@@ -2057,12 +1709,6 @@ http://pfsv.io:80/7125938483/5158/132338
 http://pfsv.io:80/7125938483/5158/132339
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] DAZN F1" tvg-logo="http://p6.vc/XRH" group-title="Canais | DAZN" tvg-shift="-3",[ES] DAZN F1
 http://pfsv.io:80/7125938483/5158/132340
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] DAZN 01" tvg-logo="http://p6.vc/XRB" group-title="Canais | DAZN" tvg-shift="-3",[IT] DAZN 01
-http://pfsv.io:80/7125938483/5158/132334
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] DAZN 02" tvg-logo="http://p6.vc/XRC" group-title="Canais | DAZN" tvg-shift="-3",[IT] DAZN 02
-http://pfsv.io:80/7125938483/5158/132335
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[LA] DAZN 01" tvg-logo="http://p6.vc/XRI" group-title="Canais | DAZN" tvg-shift="-3",[LA] DAZN 01
-http://pfsv.io:80/7125938483/5158/132341
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS BRASIL 1" tvg-logo="http://p6.vc/VQO" group-title="Canais | Eleven Sports" tvg-shift="-3",ELEVEN SPORTS BRASIL 1
 http://pfsv.io:80/7125938483/5158/116079
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS BRASIL 10" tvg-logo="http://p6.vc/VQX" group-title="Canais | Eleven Sports" tvg-shift="-3",ELEVEN SPORTS BRASIL 10
@@ -2083,20 +1729,6 @@ http://pfsv.io:80/7125938483/5158/116085
 http://pfsv.io:80/7125938483/5158/116086
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN SPORTS BRASIL 9" tvg-logo="http://p6.vc/VQW" group-title="Canais | Eleven Sports" tvg-shift="-3",ELEVEN SPORTS BRASIL 9
 http://pfsv.io:80/7125938483/5158/116087
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-name="[PT] ELEVEN SPORTS 1 FHD" tvg-logo="http://p6.vc/VQI" group-title="Canais | Eleven Sports" tvg-shift="-3",[PT] ELEVEN SPORTS 1 FHD
-http://pfsv.io:80/7125938483/5158/116070
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-name="[PT] ELEVEN SPORTS 2 FHD" tvg-logo="http://p6.vc/VQJ" group-title="Canais | Eleven Sports" tvg-shift="-3",[PT] ELEVEN SPORTS 2 FHD
-http://pfsv.io:80/7125938483/5158/116072
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-name="[PT] ELEVEN SPORTS 3 HD" tvg-logo="http://p6.vc/VQK" group-title="Canais | Eleven Sports" tvg-shift="-3",[PT] ELEVEN SPORTS 3 HD
-http://pfsv.io:80/7125938483/5158/116074
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" tvg-name="[PT] ELEVEN SPORTS 4 FHD" tvg-logo="http://p6.vc/VQL" group-title="Canais | Eleven Sports" tvg-shift="-3",[PT] ELEVEN SPORTS 4 FHD
-http://pfsv.io:80/7125938483/5158/116076
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" tvg-name="[PT] ELEVEN SPORTS 5 HD" tvg-logo="http://p6.vc/VQM" group-title="Canais | Eleven Sports" tvg-shift="-3",[PT] ELEVEN SPORTS 5 HD
-http://pfsv.io:80/7125938483/5158/116077
-#EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" tvg-name="[PT] ELEVEN SPORTS 6 FHD" tvg-logo="http://p6.vc/VQN" group-title="Canais | Eleven Sports" tvg-shift="-3",[PT] ELEVEN SPORTS 6 FHD
-http://pfsv.io:80/7125938483/5158/116078
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Eleven Sports HD" tvg-logo="http://p6.vc/VQY" group-title="Canais | Eleven Sports" tvg-shift="-3",[US] Eleven Sports HD
-http://pfsv.io:80/7125938483/5158/122754
 #EXTINF:-1 tvg-id="TV Anhanguera Goiânia" tvg-name="Globo Anhanguera Goiania SD" tvg-logo="http://p6.vc/VDM" group-title="Canais | Globo" tvg-shift="-3",Globo Anhanguera Goiania SD
 http://pfsv.io:80/7125938483/5158/32427
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo EPTV Araraquara SD" tvg-logo="http://p6.vc/AVA" group-title="Canais | Globo" tvg-shift="-3",Globo EPTV Araraquara SD
@@ -2523,8 +2155,6 @@ http://pfsv.io:80/7125938483/5158/65253
 http://pfsv.io:80/7125938483/5158/65252
 #EXTINF:-1 tvg-id="São Paulo/SP  Telecine Premium HD ³" tvg-name="Globo Tv Verdes Mares Fortaleza SD" tvg-logo="http://p6.vc/AVB" group-title="Canais | Globo" tvg-shift="-3",Globo Tv Verdes Mares Fortaleza SD
 http://pfsv.io:80/7125938483/5158/461
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Passo Fundo FHD" tvg-logo="http://p6.vc/WIR" group-title="Canais | Globo" tvg-shift="-3",Globo TV Passo Fundo FHD
-http://pfsv.io:80/7125938483/5158/132949
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="http://p6.vc/AVK" group-title="Canais | HBO" tvg-shift="-3",HBO 2 FHD
 http://pfsv.io:80/7125938483/5158/470
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD [H265]" tvg-logo="http://p6.vc/VSK" group-title="Canais | HBO" tvg-shift="-3",HBO 2 FHD [H265]
@@ -2589,24 +2219,6 @@ http://pfsv.io:80/7125938483/5158/30240
 http://pfsv.io:80/7125938483/5158/478
 #EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="http://p6.vc/AVY" group-title="Canais | HBO" tvg-shift="-3",HBO Xtreme SD
 http://pfsv.io:80/7125938483/5158/486
-#EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-name="[US] HBO Zone FHD" tvg-logo="" group-title="Canais | HBO" tvg-shift="-3",[US] HBO Zone FHD
-http://pfsv.io:80/7125938483/5158/108425
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD [HDR]" tvg-logo="http://p6.vc/VSE" group-title="Canais | HBO" tvg-shift="-3",HBO 2 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130205
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family FHD [HDR]" tvg-logo="http://p6.vc/VSL" group-title="Canais | HBO" tvg-shift="-3",HBO Family FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130206
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD [HDR]" tvg-logo="http://p6.vc/VVP" group-title="Canais | HBO" tvg-shift="-3",HBO FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130207
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi FHD [HDR]" tvg-logo="http://p6.vc/VWO" group-title="Canais | HBO" tvg-shift="-3",HBO Mundi FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130208
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus FHD [HDR]" tvg-logo="http://p6.vc/VVS" group-title="Canais | HBO" tvg-shift="-3",HBO Plus FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130204
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop FHD [HDR]" tvg-logo="http://p6.vc/WIS" group-title="Canais | HBO" tvg-shift="-3",HBO Pop FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130209
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature FHD [HDR]" tvg-logo="http://p6.vc/VWM" group-title="Canais | HBO" tvg-shift="-3",HBO Signature FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130210
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme FHD [HDR]" tvg-logo="http://p6.vc/WIU" group-title="Canais | HBO" tvg-shift="-3",HBO Xtreme FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130211
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Max 1" tvg-logo="http://p6.vc/OOF" group-title="Canais | HBO Max [Champions League]" tvg-shift="-3",HBO Max 1
 http://pfsv.io:80/7125938483/5158/92846
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MAX 1 [Alter2]" tvg-logo="http://p6.vc/TYY" group-title="Canais | HBO Max [Champions League]" tvg-shift="-3",HBO MAX 1 [Alter2]
@@ -2671,30 +2283,6 @@ http://pfsv.io:80/7125938483/5158/139183
 http://pfsv.io:80/7125938483/5158/119638
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CA] NBA TV Canada" tvg-logo="" group-title="Canais | NBA" tvg-shift="-3",[CA] NBA TV Canada
 http://pfsv.io:80/7125938483/5158/119641
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Sky Sport NBA" tvg-logo="" group-title="Canais | NBA" tvg-shift="-3",[IT] Sky Sport NBA
-http://pfsv.io:80/7125938483/5158/119642
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] NBA TV HD" tvg-logo="http://p6.vc/VPQ" group-title="Canais | NBA" tvg-shift="-3",[PT] NBA TV HD
-http://pfsv.io:80/7125938483/5158/119639
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="[PT] SporTV NBA FHD" tvg-logo="" group-title="Canais | NBA" tvg-shift="-3",[PT] SporTV NBA FHD
-http://pfsv.io:80/7125938483/5158/119640
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[TH] True Vision NBA" tvg-logo="" group-title="Canais | NBA" tvg-shift="-3",[TH] True Vision NBA
-http://pfsv.io:80/7125938483/5158/119644
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] NBA League Pass" tvg-logo="http://p6.vc/ZJA" group-title="Canais | NBA" tvg-shift="-3",[US] NBA League Pass
-http://pfsv.io:80/7125938483/5158/130926
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="[US] NBA TV FHD" tvg-logo="http://p6.vc/VPG" group-title="Canais | NBA" tvg-shift="-3",[US] NBA TV FHD
-http://pfsv.io:80/7125938483/5158/101331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA League Pass 1 FHD" tvg-logo="http://p6.vc/ZJN" group-title="Canais | NBA" tvg-shift="-3",NBA League Pass 1 FHD
-http://pfsv.io:80/7125938483/5158/139177
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA League Pass 2 FHD" tvg-logo="http://p6.vc/ZJO" group-title="Canais | NBA" tvg-shift="-3",NBA League Pass 2 FHD
-http://pfsv.io:80/7125938483/5158/139178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA League Pass 3 FHD" tvg-logo="http://p6.vc/ZJP" group-title="Canais | NBA" tvg-shift="-3",NBA League Pass 3 FHD
-http://pfsv.io:80/7125938483/5158/139179
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA League Pass 4 FHD" tvg-logo="http://p6.vc/ZJQ" group-title="Canais | NBA" tvg-shift="-3",NBA League Pass 4 FHD
-http://pfsv.io:80/7125938483/5158/139180
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA League Pass 5 FHD" tvg-logo="http://p6.vc/ZJR" group-title="Canais | NBA" tvg-shift="-3",NBA League Pass 5 FHD
-http://pfsv.io:80/7125938483/5158/139181
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA League Pass 6 FHD" tvg-logo="http://p6.vc/ZJS" group-title="Canais | NBA" tvg-shift="-3",NBA League Pass 6 FHD
-http://pfsv.io:80/7125938483/5158/139182
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://p6.vc/AXJ" group-title="Canais | Premiere" tvg-shift="-3",Premiere 2 FHD
 http://pfsv.io:80/7125938483/5158/525
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD [H265]" tvg-logo="http://p6.vc/VSX" group-title="Canais | Premiere" tvg-shift="-3",Premiere 2 FHD [H265]
@@ -2751,22 +2339,6 @@ http://pfsv.io:80/7125938483/5158/30287
 http://pfsv.io:80/7125938483/5158/537
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes SD" tvg-logo="http://p6.vc/AYA" group-title="Canais | Premiere" tvg-shift="-3",Premiere Clubes SD
 http://pfsv.io:80/7125938483/5158/544
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD [HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere" tvg-shift="-3",Premiere 2 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130234
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD [HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere" tvg-shift="-3",Premiere 3 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130235
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD [HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere" tvg-shift="-3",Premiere 4 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130236
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD [HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere" tvg-shift="-3",Premiere 5 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130237
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD [HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere" tvg-shift="-3",Premiere 6 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130238
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD [HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere" tvg-shift="-3",Premiere 7 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130239
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 FHD [HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere" tvg-shift="-3",Premiere 8 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130240
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes FHD [HDR]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere" tvg-shift="-3",Premiere Clubes FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130233
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://p6.vc/AYH" group-title="Canais | SporTV" tvg-shift="-3",SporTV 2 FHD
 http://pfsv.io:80/7125938483/5158/553
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://p6.vc/WHV" group-title="Canais | SporTV" tvg-shift="-3",SporTV 2 FHD [H265]
@@ -2791,22 +2363,6 @@ http://pfsv.io:80/7125938483/5158/30293
 http://pfsv.io:80/7125938483/5158/556
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV SD" tvg-logo="http://p6.vc/AYM" group-title="Canais | SporTV" tvg-shift="-3",SporTV SD
 http://pfsv.io:80/7125938483/5158/559
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="[PT] SPORT TV + FHD" tvg-logo="http://p6.vc/5" group-title="Canais | SporTV" tvg-shift="-3",[PT] SPORT TV + FHD
-http://pfsv.io:80/7125938483/5158/65151
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="[PT] SporTV 2 FHD" tvg-logo="http://p6.vc/WHZ" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV 2 FHD
-http://pfsv.io:80/7125938483/5158/65154
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="[PT] SporTV 3 FHD" tvg-logo="http://p6.vc/WIA" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV 3 FHD
-http://pfsv.io:80/7125938483/5158/65155
-#EXTINF:-1 tvg-id="SPORT.TV5.pt" tvg-name="[PT] SporTV 5 FHD" tvg-logo="http://p6.vc/5" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV 5 FHD
-http://pfsv.io:80/7125938483/5158/65240
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="[PT] SporTV FHD" tvg-logo="http://p6.vc/WHY" group-title="Canais | SporTV" tvg-shift="-3",[PT] SporTV FHD
-http://pfsv.io:80/7125938483/5158/65153
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 FHD [HDR]" tvg-logo="http://p6.vc/WHV" group-title="Canais | SporTV" tvg-shift="-3",SporTV 2 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130242
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 FHD [HDR]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV" tvg-shift="-3",SporTV 3 FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130243
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD [HDR]" tvg-logo="http://p6.vc/WHX" group-title="Canais | SporTV" tvg-shift="-3",SporTV FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130241
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD" tvg-logo="http://p6.vc/AYP" group-title="Canais | Telecine" tvg-shift="-3",Telecine Action FHD
 http://pfsv.io:80/7125938483/5158/562
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD[H265]" tvg-logo="http://p6.vc/VSQ" group-title="Canais | Telecine" tvg-shift="-3",Telecine Action FHD[H265]
@@ -2855,18 +2411,6 @@ http://pfsv.io:80/7125938483/5158/30247
 http://pfsv.io:80/7125938483/5158/571
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://p6.vc/AZE" group-title="Canais | Telecine" tvg-shift="-3",Telecine Touch SD
 http://pfsv.io:80/7125938483/5158/577
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD [HDR]" tvg-logo="http://p6.vc/VSQ" group-title="Canais | Telecine" tvg-shift="-3",Telecine Action FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130244
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult FHD [HDR]" tvg-logo="http://p6.vc/VWK" group-title="Canais | Telecine" tvg-shift="-3",Telecine Cult FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130245
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun FHD [HDR]" tvg-logo="http://p6.vc/AYQ" group-title="Canais | Telecine" tvg-shift="-3",Telecine Fun FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130247
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca FHD [HDR]" tvg-logo="http://p6.vc/AYR" group-title="Canais | Telecine" tvg-shift="-3",Telecine Pipoca FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130248
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium FHD [HDR]" tvg-logo="http://p6.vc/VSU" group-title="Canais | Telecine" tvg-shift="-3",Telecine Premium FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130249
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch FHD [HDR]" tvg-logo="http://p6.vc/VSV" group-title="Canais | Telecine" tvg-shift="-3",Telecine Touch FHD [HDR]
-http://pfsv.io:80/7125938483/5158/130250
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ARB] Abu Dhabi Sports 2 UFC" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ARB] Abu Dhabi Sports 2 UFC
 http://pfsv.io:80/7125938483/5158/97800
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ARM] H1" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ARM] H1
@@ -2901,190 +2445,6 @@ http://pfsv.io:80/7125938483/5158/97819
 http://pfsv.io:80/7125938483/5158/97849
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] Popular TV Melilla" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] Popular TV Melilla
 http://pfsv.io:80/7125938483/5158/97833
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] RiberaTV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] RiberaTV
-http://pfsv.io:80/7125938483/5158/97817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] RiberaTV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] RiberaTV
-http://pfsv.io:80/7125938483/5158/97845
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] Sophia TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] Sophia TV
-http://pfsv.io:80/7125938483/5158/97826
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] Telemax" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] Telemax
-http://pfsv.io:80/7125938483/5158/97907
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] TeleSafor" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TeleSafor
-http://pfsv.io:80/7125938483/5158/97834
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] Televisio Girona" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] Televisio Girona
-http://pfsv.io:80/7125938483/5158/97835
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] Television de Galicia America" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] Television de Galicia America
-http://pfsv.io:80/7125938483/5158/97832
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] TVG" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TVG
-http://pfsv.io:80/7125938483/5158/97837
-#EXTINF:-1 tvg-id="tvG2.es" tvg-name="[ES] TVG 2" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TVG 2
-http://pfsv.io:80/7125938483/5158/97850
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] TVG América" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TVG América
-http://pfsv.io:80/7125938483/5158/97838
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] TVG Cultural" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TVG Cultural
-http://pfsv.io:80/7125938483/5158/97839
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] TVG Evento 1" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TVG Evento 1
-http://pfsv.io:80/7125938483/5158/97840
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] TVG Infantil" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TVG Infantil
-http://pfsv.io:80/7125938483/5158/97820
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] TVG Infantil" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TVG Infantil
-http://pfsv.io:80/7125938483/5158/97822
-#EXTINF:-1 tvg-id="TVGEuropa.es" tvg-name="[ES] TVG Momento" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TVG Momento
-http://pfsv.io:80/7125938483/5158/97812
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] TVG Musigal" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TVG Musigal
-http://pfsv.io:80/7125938483/5158/97815
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] TVG Musigal" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[ES] TVG Musigal
-http://pfsv.io:80/7125938483/5158/97816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[EU] TeleSafor" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[EU] TeleSafor
-http://pfsv.io:80/7125938483/5158/97932
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] BipTV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] BipTV
-http://pfsv.io:80/7125938483/5158/97923
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] DJing Classics" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] DJing Classics
-http://pfsv.io:80/7125938483/5158/97975
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Fashion TV Midnite Secrets" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Fashion TV Midnite Secrets
-http://pfsv.io:80/7125938483/5158/97906
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Fashion TV Paris" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Fashion TV Paris
-http://pfsv.io:80/7125938483/5158/97909
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Francophonie" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Francophonie
-http://pfsv.io:80/7125938483/5158/97915
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Persiana Comedy" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Persiana Comedy
-http://pfsv.io:80/7125938483/5158/97910
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] Persiana Family" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] Persiana Family
-http://pfsv.io:80/7125938483/5158/97908
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] TV3V" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] TV3V
-http://pfsv.io:80/7125938483/5158/97918
-#EXTINF:-1 tvg-id="TV7Bordeaux.fr" tvg-name="[FR] TV7 Colmar" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[FR] TV7 Colmar
-http://pfsv.io:80/7125938483/5158/97919
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] 51 Radio TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] 51 Radio TV
-http://pfsv.io:80/7125938483/5158/97953
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Aurora Arte" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Aurora Arte
-http://pfsv.io:80/7125938483/5158/97954
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Canale 10" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Canale 10
-http://pfsv.io:80/7125938483/5158/97936
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Canale 2 Altamura" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Canale 2 Altamura
-http://pfsv.io:80/7125938483/5158/97963
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Canale 7" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Canale 7
-http://pfsv.io:80/7125938483/5158/97935
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Canale 8" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Canale 8
-http://pfsv.io:80/7125938483/5158/97943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Elive TV Brescia" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Elive TV Brescia
-http://pfsv.io:80/7125938483/5158/97960
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Euro Indie Music Chart TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Euro Indie Music Chart TV
-http://pfsv.io:80/7125938483/5158/97948
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Icaro TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Icaro TV
-http://pfsv.io:80/7125938483/5158/97964
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Italia 2 TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Italia 2 TV
-http://pfsv.io:80/7125938483/5158/97937
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Orler TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Orler TV
-http://pfsv.io:80/7125938483/5158/97967
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Prima TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Prima TV
-http://pfsv.io:80/7125938483/5158/97941
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Radio 51" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Radio 51
-http://pfsv.io:80/7125938483/5158/97956
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Rai 3" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Rai 3
-http://pfsv.io:80/7125938483/5158/97930
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Rai 3" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Rai 3
-http://pfsv.io:80/7125938483/5158/97939
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] RDS Social TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] RDS Social TV
-http://pfsv.io:80/7125938483/5158/97973
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] ReggioTV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] ReggioTV
-http://pfsv.io:80/7125938483/5158/97951
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Reteveneta" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Reteveneta
-http://pfsv.io:80/7125938483/5158/97968
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] RTC Telecalabria" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] RTC Telecalabria
-http://pfsv.io:80/7125938483/5158/97945
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] RTP" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] RTP
-http://pfsv.io:80/7125938483/5158/97962
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Sophia TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Sophia TV
-http://pfsv.io:80/7125938483/5158/97970
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Super TV Brescia" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Super TV Brescia
-http://pfsv.io:80/7125938483/5158/97927
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Telechiara" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Telechiara
-http://pfsv.io:80/7125938483/5158/97972
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Telefoggia" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Telefoggia
-http://pfsv.io:80/7125938483/5158/97958
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] TeleRama" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] TeleRama
-http://pfsv.io:80/7125938483/5158/97940
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] TV2 Bornholm" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] TV2 Bornholm
-http://pfsv.io:80/7125938483/5158/97950
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] TV2000" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] TV2000
-http://pfsv.io:80/7125938483/5158/97977
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] TVRS" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] TVRS
-http://pfsv.io:80/7125938483/5158/97946
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Vera TV Marche" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Vera TV Marche
-http://pfsv.io:80/7125938483/5158/97969
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] VH1" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] VH1
-http://pfsv.io:80/7125938483/5158/97928
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Videolina" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Videolina
-http://pfsv.io:80/7125938483/5158/97926
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Videolina (Sardegna)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[IT] Videolina (Sardegna)
-http://pfsv.io:80/7125938483/5158/97961
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[JP] NHK World Japan live" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[JP] NHK World Japan live
-http://pfsv.io:80/7125938483/5158/97979
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] ON FM Portugal" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[PT] ON FM Portugal
-http://pfsv.io:80/7125938483/5158/97912
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] 23 ABC (KERO)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] 23 ABC (KERO)
-http://pfsv.io:80/7125938483/5158/97859
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] 30A Music" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] 30A Music
-http://pfsv.io:80/7125938483/5158/97872
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] 3News Now (KMTV-TV)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] 3News Now (KMTV-TV)
-http://pfsv.io:80/7125938483/5158/97893
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] ABC 2 Baton Rouge LA (WBRZ-HD)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] ABC 2 Baton Rouge LA (WBRZ-HD)
-http://pfsv.io:80/7125938483/5158/97870
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] ABC 7 Sarasota FL (WWSB)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] ABC 7 Sarasota FL (WWSB)
-http://pfsv.io:80/7125938483/5158/97884
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] American Horrors" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] American Horrors
-http://pfsv.io:80/7125938483/5158/97880
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] AMG TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] AMG TV
-http://pfsv.io:80/7125938483/5158/97890
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Atlanta Channel" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Atlanta Channel
-http://pfsv.io:80/7125938483/5158/97896
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Beach TV (30A)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Beach TV (30A)
-http://pfsv.io:80/7125938483/5158/97873
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Beach TV (CSULB)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Beach TV (CSULB)
-http://pfsv.io:80/7125938483/5158/97879
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Beach TV (Panama City)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Beach TV (Panama City)
-http://pfsv.io:80/7125938483/5158/97887
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Beach TV (Pawleys Island)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Beach TV (Pawleys Island)
-http://pfsv.io:80/7125938483/5158/97885
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Beto TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Beto TV
-http://pfsv.io:80/7125938483/5158/97899
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CBS News Boston" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] CBS News Boston
-http://pfsv.io:80/7125938483/5158/97883
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CBS News Los Angeles" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] CBS News Los Angeles
-http://pfsv.io:80/7125938483/5158/97871
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CBS News New York" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] CBS News New York
-http://pfsv.io:80/7125938483/5158/97875
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CBSN New York" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] CBSN New York
-http://pfsv.io:80/7125938483/5158/97888
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Charge!" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Charge!
-http://pfsv.io:80/7125938483/5158/97903
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CMC-USA" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] CMC-USA
-http://pfsv.io:80/7125938483/5158/97877
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fail Army" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Fail Army
-http://pfsv.io:80/7125938483/5158/97863
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fashion TV Czech & Slovak" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Fashion TV Czech & Slovak
-http://pfsv.io:80/7125938483/5158/97965
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] FOX 28 Savannah GA (WTGS)" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] FOX 28 Savannah GA (WTGS)
-http://pfsv.io:80/7125938483/5158/97858
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fox Sports" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Fox Sports
-http://pfsv.io:80/7125938483/5158/97867
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Hunt Channel" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Hunt Channel
-http://pfsv.io:80/7125938483/5158/97807
-#EXTINF:-1 tvg-id="LawCrime.us" tvg-name="[US] Law And Crime Network" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Law And Crime Network
-http://pfsv.io:80/7125938483/5158/97864
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Movie Kingdom" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Movie Kingdom
-http://pfsv.io:80/7125938483/5158/97855
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Newsmax TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Newsmax TV
-http://pfsv.io:80/7125938483/5158/97856
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Pluto TV Cars" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Pluto TV Cars
-http://pfsv.io:80/7125938483/5158/97904
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Pluto TV Headlines" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Pluto TV Headlines
-http://pfsv.io:80/7125938483/5158/97892
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Red Bull TV" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] Red Bull TV
-http://pfsv.io:80/7125938483/5158/97843
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="[US] The Tennis Channel" tvg-logo="" group-title="Canais | Internacionais" tvg-shift="-3",[US] The Tennis Channel
-http://pfsv.io:80/7125938483/5158/97865
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ARG]  TNT Sports HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ARG]  TNT Sports HD
 http://pfsv.io:80/7125938483/5158/108402
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ARG] FOX SPORTS 2 HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ARG] FOX SPORTS 2 HD
@@ -3125,296 +2485,6 @@ http://pfsv.io:80/7125938483/5158/108408
 http://pfsv.io:80/7125938483/5158/108409
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[ES] La liga FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[ES] La liga FHD
 http://pfsv.io:80/7125938483/5158/108424
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports 1
-http://pfsv.io:80/7125938483/5158/130928
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports 2
-http://pfsv.io:80/7125938483/5158/130929
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports 3
-http://pfsv.io:80/7125938483/5158/130930
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 10" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 10
-http://pfsv.io:80/7125938483/5158/130937
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 4
-http://pfsv.io:80/7125938483/5158/130931
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 5
-http://pfsv.io:80/7125938483/5158/130932
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 6" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 6
-http://pfsv.io:80/7125938483/5158/130933
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 7" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 7
-http://pfsv.io:80/7125938483/5158/130934
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 8" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 8
-http://pfsv.io:80/7125938483/5158/130935
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] beIN Sports Max 9" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] beIN Sports Max 9
-http://pfsv.io:80/7125938483/5158/130936
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ FORMULE 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ FORMULE 1
-http://pfsv.io:80/7125938483/5158/130938
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport
-http://pfsv.io:80/7125938483/5158/130939
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport 1
-http://pfsv.io:80/7125938483/5158/130940
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport 3
-http://pfsv.io:80/7125938483/5158/130941
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] CANAL+ Sport 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] CANAL+ Sport 5
-http://pfsv.io:80/7125938483/5158/130942
-#EXTINF:-1 tvg-id="GolfChannelFrance.fr" tvg-name="[FR] Golf Channel FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] Golf Channel FHD
-http://pfsv.io:80/7125938483/5158/108388
-#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="[FR] GOLF+ HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] GOLF+ HD
-http://pfsv.io:80/7125938483/5158/108389
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 1
-http://pfsv.io:80/7125938483/5158/130943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 10" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 10
-http://pfsv.io:80/7125938483/5158/130950
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 12" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 12
-http://pfsv.io:80/7125938483/5158/130951
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 13" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 13
-http://pfsv.io:80/7125938483/5158/130952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 14" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 14
-http://pfsv.io:80/7125938483/5158/130953
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 2
-http://pfsv.io:80/7125938483/5158/130944
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 3
-http://pfsv.io:80/7125938483/5158/130945
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 4
-http://pfsv.io:80/7125938483/5158/130946
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 5
-http://pfsv.io:80/7125938483/5158/130947
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 7" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 7
-http://pfsv.io:80/7125938483/5158/130948
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] RMC SPORT 9" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[FR] RMC SPORT 9
-http://pfsv.io:80/7125938483/5158/130949
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 1
-http://pfsv.io:80/7125938483/5158/130979
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 2
-http://pfsv.io:80/7125938483/5158/130980
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 3
-http://pfsv.io:80/7125938483/5158/130981
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 4
-http://pfsv.io:80/7125938483/5158/130982
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 5
-http://pfsv.io:80/7125938483/5158/130983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 6" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 6
-http://pfsv.io:80/7125938483/5158/130984
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 7" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 7
-http://pfsv.io:80/7125938483/5158/130985
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 8" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 8
-http://pfsv.io:80/7125938483/5158/130986
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] COSMOTE SPORT 9" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] COSMOTE SPORT 9
-http://pfsv.io:80/7125938483/5158/130987
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] EUROSPORT 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] EUROSPORT 1
-http://pfsv.io:80/7125938483/5158/130988
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] EUROSPORT 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] EUROSPORT 2
-http://pfsv.io:80/7125938483/5158/130989
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports 1
-http://pfsv.io:80/7125938483/5158/130990
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova sports 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova sports 2
-http://pfsv.io:80/7125938483/5158/130991
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports 3
-http://pfsv.io:80/7125938483/5158/130992
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports 4
-http://pfsv.io:80/7125938483/5158/130993
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports 5
-http://pfsv.io:80/7125938483/5158/130994
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports 6" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports 6
-http://pfsv.io:80/7125938483/5158/130995
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports News" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports News
-http://pfsv.io:80/7125938483/5158/130996
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova sports Prime" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova sports Prime
-http://pfsv.io:80/7125938483/5158/130997
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[GR] Nova Sports Start" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[GR] Nova Sports Start
-http://pfsv.io:80/7125938483/5158/130998
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] EUROSPORT 1 FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[IT] EUROSPORT 1 FHD
-http://pfsv.io:80/7125938483/5158/108394
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] EUROSPORT 2 FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[IT] EUROSPORT 2 FHD
-http://pfsv.io:80/7125938483/5158/108395
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="[IT] Rai Sport + HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[IT] Rai Sport + HD
-http://pfsv.io:80/7125938483/5158/58209
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Super Tennis" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[IT] Super Tennis
-http://pfsv.io:80/7125938483/5158/130927
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[IT] Tennis Channel" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[IT] Tennis Channel
-http://pfsv.io:80/7125938483/5158/119643
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MY] Astro SuperSport 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[MY] Astro SuperSport 1
-http://pfsv.io:80/7125938483/5158/131011
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MY] Astro SuperSport 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[MY] Astro SuperSport 2
-http://pfsv.io:80/7125938483/5158/131012
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MY] Astro SuperSport 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[MY] Astro SuperSport 3
-http://pfsv.io:80/7125938483/5158/131013
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[MY] Astro SuperSport 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[MY] Astro SuperSport 4
-http://pfsv.io:80/7125938483/5158/131014
-#EXTINF:-1 tvg-id="EEurope.us" tvg-name="[PT] E! HD" tvg-logo="http://p6.vc/VRF" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[PT] E! HD
-http://pfsv.io:80/7125938483/5158/58169
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] EUROSPORT 1 FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[PT] EUROSPORT 1 FHD
-http://pfsv.io:80/7125938483/5158/108392
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[PT] EUROSPORT 2 HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[PT] EUROSPORT 2 HD
-http://pfsv.io:80/7125938483/5158/108393
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="[PT] Sporting TV HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[PT] Sporting TV HD
-http://pfsv.io:80/7125938483/5158/58182
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports
-http://pfsv.io:80/7125938483/5158/130954
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 1
-http://pfsv.io:80/7125938483/5158/130955
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 2
-http://pfsv.io:80/7125938483/5158/130956
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 3
-http://pfsv.io:80/7125938483/5158/130957
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 4
-http://pfsv.io:80/7125938483/5158/130958
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 5" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 5
-http://pfsv.io:80/7125938483/5158/130959
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 6" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 6
-http://pfsv.io:80/7125938483/5158/130960
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports 7" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports 7
-http://pfsv.io:80/7125938483/5158/130961
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports AFC" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports AFC
-http://pfsv.io:80/7125938483/5158/130962
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports AFC 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports AFC 1
-http://pfsv.io:80/7125938483/5158/130963
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports AFC 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports AFC 2
-http://pfsv.io:80/7125938483/5158/130964
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports AFC 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports AFC 3
-http://pfsv.io:80/7125938483/5158/130965
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports English 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports English 1
-http://pfsv.io:80/7125938483/5158/130966
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports English 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports English 2
-http://pfsv.io:80/7125938483/5158/130967
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports English 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports English 3
-http://pfsv.io:80/7125938483/5158/130968
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Max 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Max 1
-http://pfsv.io:80/7125938483/5158/130969
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Max 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Max 2
-http://pfsv.io:80/7125938483/5158/130970
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Max 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Max 3
-http://pfsv.io:80/7125938483/5158/130971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Max 4" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Max 4
-http://pfsv.io:80/7125938483/5158/130972
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports News" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports News
-http://pfsv.io:80/7125938483/5158/130973
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Premium 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Premium 1
-http://pfsv.io:80/7125938483/5158/130974
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Premium 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Premium 2
-http://pfsv.io:80/7125938483/5158/130975
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Premium 3" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Premium 3
-http://pfsv.io:80/7125938483/5158/130976
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Xtra 1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Xtra 1
-http://pfsv.io:80/7125938483/5158/130977
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[QA] beIN Sports Xtra 2" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[QA] beIN Sports Xtra 2
-http://pfsv.io:80/7125938483/5158/130978
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] NFL RedZone" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] NFL RedZone
-http://pfsv.io:80/7125938483/5158/131008
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Action" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Action
-http://pfsv.io:80/7125938483/5158/130999
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Arena" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Arena
-http://pfsv.io:80/7125938483/5158/131000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Cricket" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Cricket
-http://pfsv.io:80/7125938483/5158/131001
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports F1" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports F1
-http://pfsv.io:80/7125938483/5158/131002
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Football" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Football
-http://pfsv.io:80/7125938483/5158/131003
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Golf" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Golf
-http://pfsv.io:80/7125938483/5158/131004
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Main Event" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Main Event
-http://pfsv.io:80/7125938483/5158/131005
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Mix" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Mix
-http://pfsv.io:80/7125938483/5158/131006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports News" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports News
-http://pfsv.io:80/7125938483/5158/131007
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Premier League" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Premier League
-http://pfsv.io:80/7125938483/5158/131009
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[UK] Sky Sports Racing" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[UK] Sky Sports Racing
-http://pfsv.io:80/7125938483/5158/131010
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Arizona Alternate" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Arizona Alternate
-http://pfsv.io:80/7125938483/5158/131015
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Arizona Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Arizona Plus
-http://pfsv.io:80/7125938483/5158/131016
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Detroit" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Detroit
-http://pfsv.io:80/7125938483/5158/131017
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Detroit Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Detroit Plus
-http://pfsv.io:80/7125938483/5158/131018
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Florida" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Florida
-http://pfsv.io:80/7125938483/5158/131019
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Florida Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Florida Plus
-http://pfsv.io:80/7125938483/5158/131020
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Great Lakes" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Great Lakes
-http://pfsv.io:80/7125938483/5158/131021
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Indiana" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Indiana
-http://pfsv.io:80/7125938483/5158/131022
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Kansas City" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Kansas City
-http://pfsv.io:80/7125938483/5158/131029
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Midwest" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Midwest
-http://pfsv.io:80/7125938483/5158/131030
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Midwest Alternate" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Midwest Alternate
-http://pfsv.io:80/7125938483/5158/131031
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Midwest Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Midwest Plus
-http://pfsv.io:80/7125938483/5158/131032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports New Orleans" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports New Orleans
-http://pfsv.io:80/7125938483/5158/131033
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports North" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports North
-http://pfsv.io:80/7125938483/5158/131034
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports North Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports North Plus
-http://pfsv.io:80/7125938483/5158/131035
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Ohio" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Ohio
-http://pfsv.io:80/7125938483/5158/131023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Ohio Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Ohio Plus
-http://pfsv.io:80/7125938483/5158/131024
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports San Diego" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports San Diego
-http://pfsv.io:80/7125938483/5158/131025
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports San Diego Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports San Diego Plus
-http://pfsv.io:80/7125938483/5158/131026
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports SoCal" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports SoCal
-http://pfsv.io:80/7125938483/5158/131027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports SoCal Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports SoCal Plus
-http://pfsv.io:80/7125938483/5158/131028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Southeast" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Southeast
-http://pfsv.io:80/7125938483/5158/131036
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Southwest" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Southwest
-http://pfsv.io:80/7125938483/5158/131037
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Southwest Alternate" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Southwest Alternate
-http://pfsv.io:80/7125938483/5158/131038
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Southwest Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Southwest Plus
-http://pfsv.io:80/7125938483/5158/131039
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Sun" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Sun
-http://pfsv.io:80/7125938483/5158/131040
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Sun Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Sun Plus
-http://pfsv.io:80/7125938483/5158/131041
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports West" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports West
-http://pfsv.io:80/7125938483/5158/131042
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Wisconsin" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Wisconsin
-http://pfsv.io:80/7125938483/5158/131043
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Wisconsin Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Wisconsin Plus
-http://pfsv.io:80/7125938483/5158/131044
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CBS Sports Network USA FHD" tvg-logo="MUDAR" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] CBS Sports Network USA FHD
-http://pfsv.io:80/7125938483/5158/58178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fight Box" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Fight Box
-http://pfsv.io:80/7125938483/5158/130921
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fight Box HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Fight Box HD
-http://pfsv.io:80/7125938483/5158/122756
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fight Network FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Fight Network FHD
-http://pfsv.io:80/7125938483/5158/122755
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fight Sports" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Fight Sports
-http://pfsv.io:80/7125938483/5158/130922
-#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="[US] Fox Soccer Plus HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Fox Soccer Plus HD
-http://pfsv.io:80/7125938483/5158/109513
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] FOX SPORTS Oklahoma HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] FOX SPORTS Oklahoma HD
-http://pfsv.io:80/7125938483/5158/108404
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] FOX SPORTS Racing HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] FOX SPORTS Racing HD
-http://pfsv.io:80/7125938483/5158/108405
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] FOX SPORTS South Carolina HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] FOX SPORTS South Carolina HD
-http://pfsv.io:80/7125938483/5158/108406
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] NFL Network HD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] NFL Network HD
-http://pfsv.io:80/7125938483/5158/101332
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] PAC 12 Arizona" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] PAC 12 Arizona
-http://pfsv.io:80/7125938483/5158/122816
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] PAC 12 Bay Area" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] PAC 12 Bay Area
-http://pfsv.io:80/7125938483/5158/122817
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] PAC 12 Los Angeles" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] PAC 12 Los Angeles
-http://pfsv.io:80/7125938483/5158/122818
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] PAC 12 Mountain" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] PAC 12 Mountain
-http://pfsv.io:80/7125938483/5158/122819
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] PAC 12 Oregon" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] PAC 12 Oregon
-http://pfsv.io:80/7125938483/5158/122820
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] PAC 12 Washington" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] PAC 12 Washington
-http://pfsv.io:80/7125938483/5158/122821
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] WWE Network FHD" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] WWE Network FHD
-http://pfsv.io:80/7125938483/5158/63122
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CAM] Atlanta International Airport Cam 1" tvg-logo="http://p6.vc/VIC" group-title="Cameras ao Vivo" tvg-shift="-3",[CAM] Atlanta International Airport Cam 1
 http://pfsv.io:80/7125938483/5158/33397
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CAM] Atlanta International Airport Cam 2" tvg-logo="http://p6.vc/VID" group-title="Cameras ao Vivo" tvg-shift="-3",[CAM] Atlanta International Airport Cam 2
@@ -3485,9 +2555,3 @@ http://pfsv.io:80/7125938483/5158/33395
 http://pfsv.io:80/7125938483/5158/53326
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[CAM] Yellowstone National Park - Geyser" tvg-logo="http://p6.vc/VIJ" group-title="Cameras ao Vivo" tvg-shift="-3",[CAM] Yellowstone National Park - Geyser
 http://pfsv.io:80/7125938483/5158/53324
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[LA] Universal Reality" tvg-logo="" group-title="Canais | Reality Shows" tvg-shift="-3",[LA] Universal Reality
-http://pfsv.io:80/7125938483/5158/131045
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="[PT] TVI Reality HD" tvg-logo="http://p6.vc/BPU" group-title="Canais | Reality Shows" tvg-shift="-3",[PT] TVI Reality HD
-http://pfsv.io:80/7125938483/5158/1047
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[RS] PINK Reality" tvg-logo="" group-title="Canais | Reality Shows" tvg-shift="-3",[RS] PINK Reality
-http://pfsv.io:80/7125938483/5158/131046
