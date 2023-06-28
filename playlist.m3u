@@ -403,6 +403,10 @@ http://pfsv.io:80/7125938483/5158/101336.ts
 http://pfsv.io:80/7125938483/5158/101337.ts
 #EXTINF:-1 tvg-id="MoviePlexEast.us" tvg-name="[US] MoviePlex FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[US] MoviePlex FHD
 http://pfsv.io:80/7125938483/5158/109521.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas HD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas HD
+http://pfsv.io:80/7125938483/5158/148422.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas SD" tvg-logo="http://p6.vc/AAKS" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas SD
+http://pfsv.io:80/7125938483/5158/148423.ts
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD [HDR]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130184.ts
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD [HDR]" tvg-logo="http://p6.vc/WGS" group-title="Canais | Filmes e Séries" tvg-shift="-3",AMC FHD [HDR]
@@ -451,6 +455,10 @@ http://pfsv.io:80/7125938483/5158/130201.ts
 http://pfsv.io:80/7125938483/5158/130202.ts
 #EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel FHD [HDR]" tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries" tvg-shift="-3",Warner Channel FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130203.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD" tvg-logo="http://server.playhddigital.ml:80/playfast/aELH1thmti/793" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas FHD
+http://pfsv.io:80/7125938483/5158/148424.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD [H265]" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas FHD [H265]
+http://pfsv.io:80/7125938483/5158/148425.ts
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://p6.vc/VRH" group-title="Canais | Variedades" tvg-shift="-3",AgroMais FHD
 http://pfsv.io:80/7125938483/5158/109512.ts
 #EXTINF:-1 tvg-id="Chef.tv" tvg-name="Chef TV HD" tvg-logo="http://p6.vc/VRG" group-title="Canais | Variedades" tvg-shift="-3",Chef TV HD
@@ -515,13 +523,13 @@ http://pfsv.io:80/7125938483/5158/58247.ts
 http://pfsv.io:80/7125938483/5158/58246.ts
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Natural FHD" tvg-logo="http://p6.vc/VNE" group-title="Canais | Variedades" tvg-shift="-3",Love Natural FHD
 http://pfsv.io:80/7125938483/5158/50835.ts
-#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Mais GloboSat FHD" tvg-logo="http://p6.vc/VMT" group-title="Canais | Variedades" tvg-shift="-3",Mais GloboSat FHD
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Modo Viagem FHD" tvg-logo="http://p6.vc/VMT" group-title="Canais | Variedades" tvg-shift="-3",Modo Viagem FHD
 http://pfsv.io:80/7125938483/5158/103.ts
-#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Mais GloboSat FHD[H265]" tvg-logo="http://p6.vc/VMZ" group-title="Canais | Variedades" tvg-shift="-3",Mais GloboSat FHD[H265]
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Modo Viagem FHD[H265]" tvg-logo="http://p6.vc/VMZ" group-title="Canais | Variedades" tvg-shift="-3",Modo Viagem FHD[H265]
 http://pfsv.io:80/7125938483/5158/30194.ts
-#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Mais GloboSat HD" tvg-logo="http://p6.vc/AJB" group-title="Canais | Variedades" tvg-shift="-3",Mais GloboSat HD
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Modo Viagem HD" tvg-logo="http://p6.vc/AJB" group-title="Canais | Variedades" tvg-shift="-3",Modo Viagem HD
 http://pfsv.io:80/7125938483/5158/112.ts
-#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Mais GloboSat SD" tvg-logo="http://p6.vc/AJK" group-title="Canais | Variedades" tvg-shift="-3",Mais GloboSat SD
+#EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Modo Viagem SD" tvg-logo="http://p6.vc/AJK" group-title="Canais | Variedades" tvg-shift="-3",Modo Viagem SD
 http://pfsv.io:80/7125938483/5158/121.ts
 #EXTINF:-1 tvg-id="cheftv.br" tvg-name="MasterChef HD" tvg-logo="http://p6.vc/VMJ" group-title="Canais | Variedades" tvg-shift="-3",MasterChef HD
 http://pfsv.io:80/7125938483/5158/32543.ts
