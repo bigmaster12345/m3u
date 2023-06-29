@@ -455,7 +455,7 @@ http://pfsv.io:80/7125938483/5158/130201.ts
 http://pfsv.io:80/7125938483/5158/130202.ts
 #EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel FHD [HDR]" tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries" tvg-shift="-3",Warner Channel FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130203.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD" tvg-logo="http://server.playhddigital.ml:80/playfast/aELH1thmti/793" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD" tvg-logo="http://p6.vc/AAKT" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas FHD
 http://pfsv.io:80/7125938483/5158/148424.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD [H265]" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas FHD [H265]
 http://pfsv.io:80/7125938483/5158/148425.ts
