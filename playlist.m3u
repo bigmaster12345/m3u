@@ -3389,7 +3389,7 @@ http://pfsv.io:80/7125938483/5158/131042.ts
 http://pfsv.io:80/7125938483/5158/131043.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Bally Sports Wisconsin Plus" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Bally Sports Wisconsin Plus
 http://pfsv.io:80/7125938483/5158/131044.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CBS Sports Network USA FHD" tvg-logo="MUDAR" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] CBS Sports Network USA FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] CBS Sports Network USA FHD" tvg-logo="http://p6.vc/AALZ" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] CBS Sports Network USA FHD
 http://pfsv.io:80/7125938483/5158/58178.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[US] Fight Box" tvg-logo="" group-title="Canais | Esportes [Internacional]" tvg-shift="-3",[US] Fight Box
 http://pfsv.io:80/7125938483/5158/130921.ts
