@@ -571,7 +571,7 @@ http://pfsv.io:80/7125938483/5158/101324.ts
 http://pfsv.io:80/7125938483/5158/130251.ts
 #EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil FHD [HDR]" tvg-logo="http://p6.vc/WHL" group-title="Canais | Variedades" tvg-shift="-3",Canal Brasil FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130252.ts
-#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR FHD [HDR]" tvg-logo="LOGO" group-title="Canais | Variedades" tvg-shift="-3",Canal FDR FHD [HDR]
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR FHD [HDR]" tvg-logo="http://p6.vc/AAMG" group-title="Canais | Variedades" tvg-shift="-3",Canal FDR FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130253.ts
 #EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central FHD [HDR]" tvg-logo="http://p6.vc/VRA" group-title="Canais | Variedades" tvg-shift="-3",Comedy Central FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130254.ts
@@ -1797,7 +1797,7 @@ http://pfsv.io:80/7125938483/5158/130223.ts
 http://pfsv.io:80/7125938483/5158/130224.ts
 #EXTINF:-1 tvg-id="MusicBoxBrasil.br" tvg-name="Music Box Brasil FHD [HDR]" tvg-logo="http://p6.vc/VAP" group-title="Canais | Art & Music" tvg-shift="-3",Music Box Brasil FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130225.ts
-#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor e Arte FHD [HDR]" tvg-logo="LOGO" group-title="Canais | Art & Music" tvg-shift="-3",Sabor e Arte FHD [HDR]
+#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor e Arte FHD [HDR]" tvg-logo="http://p6.vc/AAME" group-title="Canais | Art & Music" tvg-shift="-3",Sabor e Arte FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130228.ts
 #EXTINF:-1 tvg-id="TraceBrazuca.br" tvg-name="Trace Brazuca FHD [HDR]" tvg-logo="http://p6.vc/VAU" group-title="Canais | Art & Music" tvg-shift="-3",Trace Brazuca FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130226.ts
