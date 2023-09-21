@@ -189,14 +189,24 @@ http://pfsv.io:80/7125938483/5158/132254.ts
 http://pfsv.io:80/7125938483/5158/132255.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneFootball 1 FHD" tvg-logo="http://p6.vc/XWW" group-title="Canais | Jogos & Eventos" tvg-shift="-3",OneFootball 1 FHD
 http://pfsv.io:80/7125938483/5158/133537.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Grande Conquista 1 FHD" tvg-logo="" group-title="Canais | A Grande Conquista" tvg-shift="-3",A Grande Conquista 1 FHD
-http://pfsv.io:80/7125938483/5158/140755.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Grande Conquista 2 FHD" tvg-logo="" group-title="Canais | A Grande Conquista" tvg-shift="-3",A Grande Conquista 2 FHD
-http://pfsv.io:80/7125938483/5158/140756.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Grande Conquista 3 FHD" tvg-logo="" group-title="Canais | A Grande Conquista" tvg-shift="-3",A Grande Conquista 3 FHD
-http://pfsv.io:80/7125938483/5158/140757.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Grande Conquista 4 FHD" tvg-logo="" group-title="Canais | A Grande Conquista" tvg-shift="-3",A Grande Conquista 4 FHD
-http://pfsv.io:80/7125938483/5158/140758.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 1" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 1
+http://pfsv.io:80/7125938483/5158/161381.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 2" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 2
+http://pfsv.io:80/7125938483/5158/161380.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 3" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 3
+http://pfsv.io:80/7125938483/5158/161379.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 4" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 4
+http://pfsv.io:80/7125938483/5158/161378.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 5" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 5
+http://pfsv.io:80/7125938483/5158/161377.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 6" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 6
+http://pfsv.io:80/7125938483/5158/161376.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 7" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 7
+http://pfsv.io:80/7125938483/5158/161375.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 8" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 8
+http://pfsv.io:80/7125938483/5158/161374.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAZENDA SINAL 9" tvg-logo="" group-title="Canais | A Fazenda 15" tvg-shift="-3",A FAZENDA SINAL 9
+http://pfsv.io:80/7125938483/5158/161382.ts
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD" tvg-logo="http://p6.vc/APQ" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD
 http://pfsv.io:80/7125938483/5158/293.ts
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD [H265]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD [H265]
@@ -347,6 +357,10 @@ http://pfsv.io:80/7125938483/5158/287.ts
 http://pfsv.io:80/7125938483/5158/30224.ts
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT HD" tvg-logo="http://p6.vc/AQK" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT HD
 http://pfsv.io:80/7125938483/5158/315.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas HD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas HD
+http://pfsv.io:80/7125938483/5158/148422.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas SD" tvg-logo="http://p6.vc/AAKS" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas SD
+http://pfsv.io:80/7125938483/5158/148423.ts
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT SD" tvg-logo="http://p6.vc/AQK" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT SD
 http://pfsv.io:80/7125938483/5158/341.ts
 #EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series FHD" tvg-logo="http://p6.vc/APL" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Series FHD
@@ -403,10 +417,6 @@ http://pfsv.io:80/7125938483/5158/101336.ts
 http://pfsv.io:80/7125938483/5158/101337.ts
 #EXTINF:-1 tvg-id="MoviePlexEast.us" tvg-name="[US] MoviePlex FHD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",[US] MoviePlex FHD
 http://pfsv.io:80/7125938483/5158/109521.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas HD" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas HD
-http://pfsv.io:80/7125938483/5158/148422.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas SD" tvg-logo="http://p6.vc/AAKS" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas SD
-http://pfsv.io:80/7125938483/5158/148423.ts
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD [HDR]" tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries" tvg-shift="-3",A&E FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130184.ts
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD [HDR]" tvg-logo="http://p6.vc/WGS" group-title="Canais | Filmes e Séries" tvg-shift="-3",AMC FHD [HDR]
@@ -449,16 +459,16 @@ http://pfsv.io:80/7125938483/5158/130198.ts
 http://pfsv.io:80/7125938483/5158/130199.ts
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT FHD [HDR]" tvg-logo="http://p6.vc/WIG" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130200.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD" tvg-logo="http://p6.vc/AAKT" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas FHD
+http://pfsv.io:80/7125938483/5158/148424.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD [H265]" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas FHD [H265]
+http://pfsv.io:80/7125938483/5158/148425.ts
 #EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series FHD [HDR]" tvg-logo="http://p6.vc/WIQ" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Series FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130201.ts
 #EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel FHD [HDR]" tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries" tvg-shift="-3",Universal Channel FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130202.ts
 #EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel FHD [HDR]" tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries" tvg-shift="-3",Warner Channel FHD [HDR]
 http://pfsv.io:80/7125938483/5158/130203.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD" tvg-logo="http://p6.vc/AAKT" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas FHD
-http://pfsv.io:80/7125938483/5158/148424.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD [H265]" tvg-logo="" group-title="Canais | Filmes e Séries" tvg-shift="-3",TNT Novelas FHD [H265]
-http://pfsv.io:80/7125938483/5158/148425.ts
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://p6.vc/VRH" group-title="Canais | Variedades" tvg-shift="-3",AgroMais FHD
 http://pfsv.io:80/7125938483/5158/109512.ts
 #EXTINF:-1 tvg-id="Chef.tv" tvg-name="Chef TV HD" tvg-logo="http://p6.vc/VRG" group-title="Canais | Variedades" tvg-shift="-3",Chef TV HD
@@ -523,6 +533,8 @@ http://pfsv.io:80/7125938483/5158/58247.ts
 http://pfsv.io:80/7125938483/5158/58246.ts
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Natural FHD" tvg-logo="http://p6.vc/VNE" group-title="Canais | Variedades" tvg-shift="-3",Love Natural FHD
 http://pfsv.io:80/7125938483/5158/50835.ts
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="MasterChef HD" tvg-logo="http://p6.vc/VMJ" group-title="Canais | Variedades" tvg-shift="-3",MasterChef HD
+http://pfsv.io:80/7125938483/5158/32543.ts
 #EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Modo Viagem FHD" tvg-logo="http://p6.vc/VMT" group-title="Canais | Variedades" tvg-shift="-3",Modo Viagem FHD
 http://pfsv.io:80/7125938483/5158/103.ts
 #EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Modo Viagem FHD[H265]" tvg-logo="http://p6.vc/VMZ" group-title="Canais | Variedades" tvg-shift="-3",Modo Viagem FHD[H265]
@@ -531,8 +543,6 @@ http://pfsv.io:80/7125938483/5158/30194.ts
 http://pfsv.io:80/7125938483/5158/112.ts
 #EXTINF:-1 tvg-id="BR - + Globosat" tvg-name="Modo Viagem SD" tvg-logo="http://p6.vc/AJK" group-title="Canais | Variedades" tvg-shift="-3",Modo Viagem SD
 http://pfsv.io:80/7125938483/5158/121.ts
-#EXTINF:-1 tvg-id="cheftv.br" tvg-name="MasterChef HD" tvg-logo="http://p6.vc/VMJ" group-title="Canais | Variedades" tvg-shift="-3",MasterChef HD
-http://pfsv.io:80/7125938483/5158/32543.ts
 #EXTINF:-1 tvg-id="Polishop" tvg-name="Polishop TV SD" tvg-logo="http://p6.vc/AJN" group-title="Canais | Variedades" tvg-shift="-3",Polishop TV SD
 http://pfsv.io:80/7125938483/5158/124.ts
 #EXTINF:-1 tvg-id="PrimeBoxBrazil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="http://p6.vc/AIU" group-title="Canais | Variedades" tvg-shift="-3",Prime Box Brasil FHD
